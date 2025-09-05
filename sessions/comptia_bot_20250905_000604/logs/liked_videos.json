@@ -1,0 +1,32 @@
+{
+  "liked_videos": [
+    {
+      "screenshot": "liked_video_001_button.png",
+      "timestamp": "2025-09-05T00:06:20.236392",
+      "video_number": 1,
+      "is_comptia": false,
+      "found_keywords": [],
+      "like_method": "button",
+      "video_info": {
+        "username": "",
+        "description": "",
+        "likes": "",
+        "music": ""
+      }
+    },
+    {
+      "screenshot": "liked_video_005_double_tap.png",
+      "timestamp": "2025-09-05T00:07:14.312948",
+      "video_number": 5,
+      "is_comptia": false,
+      "found_keywords": [],
+      "like_method": "double_tap",
+      "video_info": {
+        "username": "",
+        "description": "",
+        "likes": "",
+        "music": ""
+      }
+    }
+  ]
+}

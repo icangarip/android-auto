@@ -35,6 +35,7 @@ class CompTIATikTokBot:
             'comment_back_alt': (592, 715),  # Alternatif yorum kapama
             'profile_avatar': (989, 1085),   # Profil resmi (unchanged)
             'follow_button': (989, 1151),    # Takip butonu (unchanged)
+            'save_button': (989, 1540),      # Save/bookmark button
         }
         
         # Double tap like areas (real user data)
@@ -186,7 +187,7 @@ class CompTIATikTokBot:
         """ADB komutu çalıştır ve çıktıyı döndür"""
         full_command = [self.adb_path] + command
         try:
-            result = subprocess.run(full_command, capture_output=True, text=True, timeout=5)
+            result = subprocess.run(full_command, capture_output=True, text=True, timeout=15)
             if result.returncode == 0:
                 return result.stdout
             return None
@@ -609,25 +610,42 @@ class CompTIATikTokBot:
         try:
             root = ET.fromstring(xml_content)
             
+            # Collect all text elements for more robust parsing
+            all_texts = []
             for elem in root.iter('node'):
                 resource_id = elem.get('resource-id', '')
                 text = elem.get('text', '')
                 content_desc = elem.get('content-desc', '')
+                class_name = elem.get('class', '')
                 
-                # Video açıklaması
-                if 'desc' in resource_id and text:
-                    video_info['description'] = text.lower()
+                if text and len(text.strip()) > 0:
+                    all_texts.append({
+                        'text': text,
+                        'resource_id': resource_id,
+                        'content_desc': content_desc,
+                        'class': class_name
+                    })
+            
+            # Enhanced parsing logic
+            for item in all_texts:
+                text = item['text']
+                resource_id = item['resource_id']
+                content_desc = item['content_desc']
                 
-                # Kullanıcı adı
-                elif 'title' in resource_id and text:
+                # Look for username patterns (starts with @)
+                if text.startswith('@') and not video_info['username']:
                     video_info['username'] = text
                 
-                # Beğeni sayısı
-                elif 'eme' in resource_id and text:
+                # Look for like count patterns (numbers with K, M, or just digits)
+                elif re.match(r'^\d+[KMB]?$', text.replace(',', '')) and not video_info['likes']:
                     video_info['likes'] = text
                 
-                # Müzik bilgisi
-                elif 'sound' in content_desc.lower():
+                # Look for description text (longer text without @ or numbers)
+                elif len(text) > 10 and not text.startswith('@') and not re.match(r'^\d+[KMB]?$', text.replace(',', '')) and not video_info['description']:
+                    video_info['description'] = text.lower()
+                
+                # Music info from content descriptions
+                if 'sound' in content_desc.lower() or 'music' in content_desc.lower():
                     video_info['music'] = content_desc
                     
         except:
@@ -735,7 +753,8 @@ class CompTIATikTokBot:
         elif behavior_chance < 0.10:  # %5 - Yanlışlıkla swipe
             self.log("   ↔️ Yanlış swipe, geri dönüş...")
             # Ters swipe
-            zone = random.choice(self.swipe_zones)
+            # Use screen center area for random swipe behavior
+            zone = (540, 1200, 150)  # (x, y, radius)
             self.run_adb(['shell', 'input', 'swipe',
                          str(zone['end'][0]), str(zone['end'][1]),
                          str(zone['start'][0]), str(zone['start'][1]),
