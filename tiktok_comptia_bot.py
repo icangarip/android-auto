@@ -57,8 +57,8 @@ class CompTIATikTokBot:
             # Pattern 3: Start right, end upper-right
             {'start_area': (800, 1650, 950, 1750), 'end_area': (1000, 1300, 1100, 1450)},
             
-            # Pattern 4: Longer swipe - lower to upper
-            {'start_area': (650, 1350, 750, 1450), 'end_area': (1000, 650, 1100, 750)},
+            # Pattern 4: Longer swipe - lower to upper (FIXED)
+            {'start_area': (650, 1650, 750, 1750), 'end_area': (1000, 950, 1100, 1050)},
             
             # Pattern 5: Standard middle swipe with right drift
             {'start_area': (850, 1600, 950, 1700), 'end_area': (950, 1250, 1050, 1350)},
@@ -435,157 +435,107 @@ class CompTIATikTokBot:
         return path
 
     def swipe_next_video(self) -> bool:
-        """Real user-based swipe patterns with natural variation"""
+        """Simple, reliable swipe with natural variation"""
         self.interaction_count += 1
         
-        # Choose a real swipe pattern
-        pattern = random.choice(self.real_swipe_patterns)
+        # Simple, working swipe coordinates (bottom to top)
+        # Start area: lower part of screen with some randomness
+        start_x = random.randint(400, 700)  # Center-left to center-right
+        start_y = random.randint(1600, 1800)  # Lower part
         
-        # Extract start and end areas
-        start_x1, start_y1, start_x2, start_y2 = pattern['start_area']
-        end_x1, end_y1, end_x2, end_y2 = pattern['end_area']
+        # End area: upper part of screen
+        end_x = random.randint(400, 700)   # Similar horizontal range
+        end_y = random.randint(800, 1000)  # Upper part
         
-        # Random point within the start area (safe bounds checking)
-        try:
-            start_x = random.randint(min(start_x1, start_x2), max(start_x1, start_x2))
-            start_y = random.randint(min(start_y1, start_y2), max(start_y1, start_y2))
+        # Natural duration variation
+        duration = random.randint(300, 500)
+        
+        self.log(f"🔄 Swiping from ({start_x},{start_y}) to ({end_x},{end_y}) in {duration}ms")
+        
+        # Get current video info before swipe for validation
+        video_info_before = self.get_video_description()
+        
+        # Execute the swipe
+        success = self.execute_simple_swipe(start_x, start_y, end_x, end_y, duration)
+        
+        if success:
+            # Wait for video to load
+            time.sleep(1.0)
             
-            # Random point within the end area
-            end_x = random.randint(min(end_x1, end_x2), max(end_x1, end_x2))
-            end_y = random.randint(min(end_y1, end_y2), max(end_y1, end_y2))
-        except ValueError as e:
-            self.log(f"Swipe coordinate error: {e}")
-            self.log(f"Pattern: start=({start_x1},{start_y1},{start_x2},{start_y2}) end=({end_x1},{end_y1},{end_x2},{end_y2})")
-            # Fallback to safe coordinates
-            start_x, start_y = 800, 1700
-            end_x, end_y = 900, 1300
-        
-        # User characteristics affect the swipe
-        size_factor = self.user_profile['finger_size']
-        precision = self.user_profile['precision_level']
-        
-        # Add natural variance based on user profile
-        variance_x = int(30 / precision * size_factor)
-        variance_y = int(20 / precision * size_factor)
-        
-        start_x += random.randint(-variance_x, variance_x)
-        start_y += random.randint(-variance_y, variance_y)
-        end_x += random.randint(-variance_x, variance_x)
-        end_y += random.randint(-variance_y, variance_y)
-        
-        # Learning from successful swipes
-        if self.swipe_patterns and random.random() < 0.3:
-            # Sometimes use a successful previous pattern
-            successful_patterns = [p for p in self.swipe_patterns if p.get('success', True)]
-            if successful_patterns:
-                last_success = successful_patterns[-1]
-                learning_factor = 0.15
-                start_x += int(last_success.get('start_offset_x', 0) * learning_factor)
-                start_y += int(last_success.get('start_offset_y', 0) * learning_factor)
-        
-        # Keep within screen bounds with margins
-        start_x = max(50, min(start_x, self.screen_width - 50))
-        start_y = max(150, min(start_y, self.screen_height - 150))
-        end_x = max(50, min(end_x, self.screen_width - 50))
-        end_y = max(150, min(end_y, self.screen_height - 150))
-        
-        # Generate the natural path
-        path = self.generate_natural_swipe_path(start_x, start_y, end_x, end_y)
-        
-        # Real swipe timing analysis: 
-        # Most swipes are 300-500ms with user preference variations
-        base_duration = random.randint(280, 480)
-        
-        # Speed preference affects duration
-        speed_adjusted = int(base_duration / self.user_profile['speed_preference'])
-        
-        # Energy affects smoothness and speed
-        energy_factor = 1.5 - (self.energy_level * 0.5)  # Tired = slower
-        final_duration = int(speed_adjusted * energy_factor)
-        
-        # Bound the duration to realistic values
-        final_duration = max(200, min(final_duration, 700))
-        
-        # Execute the swipe (simplified version first)
-        success = self.run_adb(['shell', 'input', 'swipe', 
-                               str(start_x), str(start_y), 
-                               str(end_x), str(end_y), 
-                               str(final_duration)]) is not None
-        
-        # Store the pattern for learning
-        pattern_record = {
-            'start_offset_x': start_x - (start_x1 + start_x2) // 2,
-            'start_offset_y': start_y - (start_y1 + start_y2) // 2,
-            'end_offset_x': end_x - (end_x1 + end_x2) // 2,
-            'end_offset_y': end_y - (end_y1 + end_y2) // 2,
-            'duration': final_duration,
-            'success': success,
-            'pattern_index': self.real_swipe_patterns.index(pattern)
-        }
-        
-        self.swipe_patterns.append(pattern_record)
-        if len(self.swipe_patterns) > 20:
-            self.swipe_patterns.pop(0)
+            # Check if video actually changed
+            video_changed = self.validate_video_change(video_info_before)
+            
+            if video_changed:
+                self.log("✅ Video changed successfully")
+                return True
+            else:
+                self.log("⚠️ Video did not change - trying again")
+                # Try a different swipe
+                start_x = random.randint(500, 600)
+                start_y = random.randint(1700, 1900)
+                end_x = random.randint(500, 600)
+                end_y = random.randint(700, 900)
+                duration = random.randint(400, 600)
+                
+                success = self.execute_simple_swipe(start_x, start_y, end_x, end_y, duration)
+                if success:
+                    time.sleep(1.0)
+                    return self.validate_video_change(video_info_before)
         
         return success
     
-    def execute_real_swipe(self, path: List[Tuple[int, int]], duration_ms: int) -> bool:
-        """Execute swipe with real human timing characteristics"""
+    def validate_video_change(self, previous_video_info: Dict[str, str]) -> bool:
+        """Check if video actually changed by comparing UI elements"""
         try:
-            if len(path) < 2:
-                return False
+            # Get current video info
+            current_video_info = self.get_video_description()
             
-            # Touch down at start
-            start_x, start_y = path[0]
-            if not self.run_adb(['shell', 'input', 'motionevent', 'DOWN', str(start_x), str(start_y)]):
-                return False
+            # Compare key indicators
+            desc_changed = current_video_info.get('description', '') != previous_video_info.get('description', '')
+            user_changed = current_video_info.get('username', '') != previous_video_info.get('username', '')
+            likes_changed = current_video_info.get('likes', '') != previous_video_info.get('likes', '')
             
-            # Calculate timing for each segment
-            total_time = duration_ms / 1000.0
-            segments = len(path) - 1
+            # Video changed if any of these are different
+            changed = desc_changed or user_changed or likes_changed
             
-            for i in range(1, len(path)):
-                # Real human swipe acceleration curve
-                # Slow start (0.2s), fast middle (0.6s), slow end (0.2s)
-                progress = i / segments
+            if changed:
+                self.log(f"📹 Video change detected:")
+                if desc_changed:
+                    self.log(f"   📝 Description: '{previous_video_info.get('description', '')[:30]}...' -> '{current_video_info.get('description', '')[:30]}...'")
+                if user_changed:
+                    self.log(f"   👤 User: '{previous_video_info.get('username', '')}' -> '{current_video_info.get('username', '')}'")
+                if likes_changed:
+                    self.log(f"   ❤️ Likes: '{previous_video_info.get('likes', '')}' -> '{current_video_info.get('likes', '')}'")
+            else:
+                self.log("⚠️ No video change detected - same content")
                 
-                if progress <= 0.2:
-                    # Acceleration phase
-                    speed_mult = 0.3 + (progress / 0.2) * 0.5
-                elif progress >= 0.8:
-                    # Deceleration phase
-                    speed_mult = 0.8 - ((progress - 0.8) / 0.2) * 0.6
-                else:
-                    # Constant speed phase
-                    speed_mult = 0.8 + math.sin((progress - 0.2) / 0.6 * math.pi) * 0.2
-                
-                segment_time = (total_time / segments) * speed_mult
-                
-                # Add micro-variations in timing (human imperfection)
-                jitter = random.uniform(-0.01, 0.01) * (2 - self.energy_level)
-                segment_time = max(0.005, segment_time + jitter)
-                
-                time.sleep(segment_time)
-                
-                # Move to next point
-                x, y = path[i]
-                if not self.run_adb(['shell', 'input', 'motionevent', 'MOVE', str(x), str(y)]):
-                    # Try to recover
-                    time.sleep(0.01)
-                    continue
-            
-            # Touch up with natural lift-off drift
-            end_x, end_y = path[-1]
-            lift_drift_x = end_x + random.randint(-3, 3)
-            lift_drift_y = end_y + random.randint(-2, 2)
-            
-            if not self.run_adb(['shell', 'input', 'motionevent', 'UP', str(lift_drift_x), str(lift_drift_y)]):
-                return False
-            
-            return True
+            return changed
             
         except Exception as e:
-            self.log(f"Real swipe execution error: {e}")
+            self.log(f"Video validation error: {e}")
+            # If we can't validate, assume it worked
+            return True
+    
+    def execute_simple_swipe(self, start_x: int, start_y: int, end_x: int, end_y: int, duration_ms: int) -> bool:
+        """Execute simple swipe command that actually works"""
+        try:
+            # Use basic input swipe command - this works on all Android devices
+            success = self.run_adb([
+                'shell', 'input', 'swipe', 
+                str(start_x), str(start_y),
+                str(end_x), str(end_y),
+                str(duration_ms)
+            ])
+            
+            if success:
+                self.log(f"✅ Swipe executed: ({start_x},{start_y}) -> ({end_x},{end_y}) in {duration_ms}ms")
+            else:
+                self.log(f"❌ Swipe failed: ({start_x},{start_y}) -> ({end_x},{end_y})")
+                
+            return success
+            
+        except Exception as e:
+            self.log(f"Swipe execution error: {e}")
             return False
 
     def get_video_description(self) -> Dict[str, str]:

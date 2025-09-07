@@ -1,0 +1,60 @@
+{
+  "liked_videos": [
+    {
+      "screenshot": "liked_video_001_button.png",
+      "timestamp": "2025-09-05T00:22:37.185819",
+      "video_number": 1,
+      "is_comptia": false,
+      "found_keywords": [],
+      "like_method": "button",
+      "video_info": {
+        "username": "",
+        "description": "",
+        "likes": "",
+        "music": ""
+      }
+    },
+    {
+      "screenshot": "liked_video_002_double_tap.png",
+      "timestamp": "2025-09-05T00:22:51.457039",
+      "video_number": 2,
+      "is_comptia": false,
+      "found_keywords": [],
+      "like_method": "double_tap",
+      "video_info": {
+        "username": "",
+        "description": "",
+        "likes": "",
+        "music": ""
+      }
+    },
+    {
+      "screenshot": "liked_video_003_double_tap.png",
+      "timestamp": "2025-09-05T00:23:07.950922",
+      "video_number": 3,
+      "is_comptia": false,
+      "found_keywords": [],
+      "like_method": "double_tap",
+      "video_info": {
+        "username": "",
+        "description": "",
+        "likes": "",
+        "music": ""
+      }
+    },
+    {
+      "screenshot": "liked_video_005_double_tap.png",
+      "timestamp": "2025-09-05T00:23:36.915262",
+      "video_number": 5,
+      "is_comptia": false,
+      "found_keywords": [],
+      "like_method": "double_tap",
+      "video_info": {
+        "username": "",
+        "description": "",
+        "likes": "",
+        "music": ""
+      }
+    }
+  ]
+}
