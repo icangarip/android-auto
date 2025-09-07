@@ -1,0 +1,366 @@
+[01:10:49] 🚀 Session started: 20250905_011049
+[01:10:49] 📁 Folder: sessions/comptia_bot_20250905_011049
+[01:10:49] 👤 User Profile:
+[01:10:49]    • Dominant hand: left
+[01:10:49]    • Finger size factor: 1.04
+[01:10:49]    • Precision level: 1.29
+[01:10:49]    • Swipe style: straight
+[01:10:49]    • Speed preference: 1.11
+[01:10:49] 🚀 CompTIA TikTok Bot Başlatılıyor
+[01:10:49] ==================================================
+[01:10:49] ⏰ Süre: 2 dakika
+[01:10:49] 🎯 Hedef: CompTIA içerikleri
+[01:10:49] ==================================================
+[01:10:49] 📱 TikTok açılıyor...
+[01:10:55] 📹 Video #1
+[01:10:55]    ⚡ Enerji: 98%
+[01:10:55] 🔍 UI dump alınıyor...
+[01:10:55] 🔄 UI dump deneme 1/3 (compressed -> file)...
+[01:10:55] 🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml
+[01:10:56] 📊 ADB result: return_code=137
+[01:10:56] ⚠️ STDOUT: empty
+[01:10:56] ℹ️ STDERR: empty
+[01:10:56] ❌ Command failed with code 137
+[01:10:56] ❌ UI dump deneme 1 başarısız (code/loglara bak)
+[01:10:57] 🔄 UI dump deneme 2/3 (compressed -> file)...
+[01:10:57] 🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml
+[01:10:57] 📊 ADB result: return_code=137
+[01:10:57] ⚠️ STDOUT: empty
+[01:10:57] ℹ️ STDERR: empty
+[01:10:57] ❌ Command failed with code 137
+[01:10:57] ❌ UI dump deneme 2 başarısız (code/loglara bak)
+[01:10:58] 🔄 UI dump deneme 3/3 (compressed -> file)...
+[01:10:58] 🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml
+[01:10:58] 📊 ADB result: return_code=137
+[01:10:58] ⚠️ STDOUT: empty
+[01:10:58] ℹ️ STDERR: empty
+[01:10:58] ❌ Command failed with code 137
+[01:10:58] ❌ UI dump deneme 3 başarısız (code/loglara bak)
+[01:10:58] 📱 Fallback: uiautomator dump --compressed (default path)
+[01:10:58] 🔧 ADB command: shell uiautomator dump --compressed
+[01:10:59] 📊 ADB result: return_code=137
+[01:10:59] ⚠️ STDOUT: empty
+[01:10:59] ℹ️ STDERR: empty
+[01:10:59] ❌ Command failed with code 137
+[01:10:59] 📡 Fallback: exec-out uiautomator dump --compressed /dev/tty
+[01:10:59] 🔧 ADB command: exec-out uiautomator dump --compressed /dev/tty
+[01:10:59] 📊 ADB result: return_code=0
+[01:10:59] ✅ STDOUT: Killed 
+...
+[01:10:59] ℹ️ STDERR: empty
+[01:10:59] 🧪 Fallback: uiautomator dump (no --compressed)
+[01:10:59] 🔧 ADB command: shell uiautomator dump /sdcard/ui_dump.xml
+[01:10:59] 📊 ADB result: return_code=137
+[01:10:59] ⚠️ STDOUT: empty
+[01:10:59] ℹ️ STDERR: empty
+[01:10:59] ❌ Command failed with code 137
+[01:10:59] ❌ Tüm UI dump yöntemleri başarısız
+[01:10:59] 🔄 Alternatif yöntem deneniyor...
+[01:10:59] 🔄 Alternative: Trying different approaches...
+[01:10:59] 📱 Method 1: Trying uiautomator --compressed (default path)...
+[01:10:59] 🔧 ADB command: shell uiautomator dump --compressed
+[01:10:59] 📊 ADB result: return_code=137
+[01:10:59] ⚠️ STDOUT: empty
+[01:10:59] ℹ️ STDERR: empty
+[01:10:59] ❌ Command failed with code 137
+[01:10:59] 📱 Method 2: Trying service call...
+[01:10:59] 🔧 ADB command: shell service call window 1
+[01:10:59] 📊 ADB result: return_code=0
+[01:10:59] ✅ STDOUT: Result: Parcel(00000000 00000000   '........')
+...
+[01:10:59] ℹ️ STDERR: empty
+[01:10:59] ✅ Service call returned data
+[01:10:59] 📊 Extracted: user='', likes='00000000'
+[01:10:59] 🔍 CompTIA araması: 'extracted_from_text...'
+[01:10:59] ❌ CompTIA keyword bulunamadı
+[01:10:59]    ⏱️ 5.5 saniye izlenecek...
+[01:11:05]    ⬆️ Sonraki video...
+[01:11:05] 🏃 Swipe distance: 393px, duration: 93ms
+[01:11:05] 🔍 UI dump alınıyor...
+[01:11:05] 🔄 UI dump deneme 1/3 (compressed -> file)...
+[01:11:05] 🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml
+[01:11:06] 📊 ADB result: return_code=137
+[01:11:06] ⚠️ STDOUT: empty
+[01:11:06] ℹ️ STDERR: empty
+[01:11:06] ❌ Command failed with code 137
+[01:11:06] ❌ UI dump deneme 1 başarısız (code/loglara bak)
+[01:11:07] 🔄 UI dump deneme 2/3 (compressed -> file)...
+[01:11:07] 🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml
+[01:11:07] 📊 ADB result: return_code=137
+[01:11:07] ⚠️ STDOUT: empty
+[01:11:07] ℹ️ STDERR: empty
+[01:11:07] ❌ Command failed with code 137
+[01:11:07] ❌ UI dump deneme 2 başarısız (code/loglara bak)
+[01:11:08] 🔄 UI dump deneme 3/3 (compressed -> file)...
+[01:11:08] 🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml
+[01:11:09] 📊 ADB result: return_code=137
+[01:11:09] ⚠️ STDOUT: empty
+[01:11:09] ℹ️ STDERR: empty
+[01:11:09] ❌ Command failed with code 137
+[01:11:09] ❌ UI dump deneme 3 başarısız (code/loglara bak)
+[01:11:09] 📱 Fallback: uiautomator dump --compressed (default path)
+[01:11:09] 🔧 ADB command: shell uiautomator dump --compressed
+[01:11:09] 📊 ADB result: return_code=137
+[01:11:09] ⚠️ STDOUT: empty
+[01:11:09] ℹ️ STDERR: empty
+[01:11:09] ❌ Command failed with code 137
+[01:11:09] 📡 Fallback: exec-out uiautomator dump --compressed /dev/tty
+[01:11:09] 🔧 ADB command: exec-out uiautomator dump --compressed /dev/tty
+[01:11:09] 📊 ADB result: return_code=0
+[01:11:09] ✅ STDOUT: Killed 
+...
+[01:11:09] ℹ️ STDERR: empty
+[01:11:09] 🧪 Fallback: uiautomator dump (no --compressed)
+[01:11:09] 🔧 ADB command: shell uiautomator dump /sdcard/ui_dump.xml
+[01:11:09] 📊 ADB result: return_code=137
+[01:11:09] ⚠️ STDOUT: empty
+[01:11:09] ℹ️ STDERR: empty
+[01:11:09] ❌ Command failed with code 137
+[01:11:09] ❌ Tüm UI dump yöntemleri başarısız
+[01:11:09] 🔄 Alternatif yöntem deneniyor...
+[01:11:09] 🔄 Alternative: Trying different approaches...
+[01:11:09] 📱 Method 1: Trying uiautomator --compressed (default path)...
+[01:11:09] 🔧 ADB command: shell uiautomator dump --compressed
+[01:11:10] 📊 ADB result: return_code=137
+[01:11:10] ⚠️ STDOUT: empty
+[01:11:10] ℹ️ STDERR: empty
+[01:11:10] ❌ Command failed with code 137
+[01:11:10] 📱 Method 2: Trying service call...
+[01:11:10] 🔧 ADB command: shell service call window 1
+[01:11:10] 📊 ADB result: return_code=0
+[01:11:10] ✅ STDOUT: Result: Parcel(00000000 00000000   '........')
+...
+[01:11:10] ℹ️ STDERR: empty
+[01:11:10] ✅ Service call returned data
+[01:11:10] 📊 Extracted: user='', likes='00000000'
+[01:11:10] ✅ Swipe executed: (909,1665) -> (1012,1285) in 83ms
+[01:11:11] 🔍 UI dump alınıyor...
+[01:11:12] 🔄 UI dump deneme 1/3 (compressed -> file)...
+[01:11:12] 🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml
+[01:11:12] 📊 ADB result: return_code=137
+[01:11:12] ⚠️ STDOUT: empty
+[01:11:12] ℹ️ STDERR: empty
+[01:11:12] ❌ Command failed with code 137
+[01:11:12] ❌ UI dump deneme 1 başarısız (code/loglara bak)
+[01:11:13] 🔄 UI dump deneme 2/3 (compressed -> file)...
+[01:11:13] 🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml
+[01:11:14] 📊 ADB result: return_code=137
+[01:11:14] ⚠️ STDOUT: empty
+[01:11:14] ℹ️ STDERR: empty
+[01:11:14] ❌ Command failed with code 137
+[01:11:14] ❌ UI dump deneme 2 başarısız (code/loglara bak)
+[01:11:15] 🔄 UI dump deneme 3/3 (compressed -> file)...
+[01:11:15] 🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml
+[01:11:15] 📊 ADB result: return_code=137
+[01:11:15] ⚠️ STDOUT: empty
+[01:11:15] ℹ️ STDERR: empty
+[01:11:15] ❌ Command failed with code 137
+[01:11:15] ❌ UI dump deneme 3 başarısız (code/loglara bak)
+[01:11:15] 📱 Fallback: uiautomator dump --compressed (default path)
+[01:11:15] 🔧 ADB command: shell uiautomator dump --compressed
+[01:11:15] 📊 ADB result: return_code=137
+[01:11:15] ⚠️ STDOUT: empty
+[01:11:15] ℹ️ STDERR: empty
+[01:11:15] ❌ Command failed with code 137
+[01:11:15] 📡 Fallback: exec-out uiautomator dump --compressed /dev/tty
+[01:11:15] 🔧 ADB command: exec-out uiautomator dump --compressed /dev/tty
+[01:11:15] 📊 ADB result: return_code=0
+[01:11:15] ✅ STDOUT: Killed 
+...
+[01:11:15] ℹ️ STDERR: empty
+[01:11:15] 🧪 Fallback: uiautomator dump (no --compressed)
+[01:11:15] 🔧 ADB command: shell uiautomator dump /sdcard/ui_dump.xml
+[01:11:16] 📊 ADB result: return_code=137
+[01:11:16] ⚠️ STDOUT: empty
+[01:11:16] ℹ️ STDERR: empty
+[01:11:16] ❌ Command failed with code 137
+[01:11:16] ❌ Tüm UI dump yöntemleri başarısız
+[01:11:16] 🔄 Alternatif yöntem deneniyor...
+[01:11:16] 🔄 Alternative: Trying different approaches...
+[01:11:16] 📱 Method 1: Trying uiautomator --compressed (default path)...
+[01:11:16] 🔧 ADB command: shell uiautomator dump --compressed
+[01:11:16] 📊 ADB result: return_code=137
+[01:11:16] ⚠️ STDOUT: empty
+[01:11:16] ℹ️ STDERR: empty
+[01:11:16] ❌ Command failed with code 137
+[01:11:16] 📱 Method 2: Trying service call...
+[01:11:16] 🔧 ADB command: shell service call window 1
+[01:11:16] 📊 ADB result: return_code=0
+[01:11:16] ✅ STDOUT: Result: Parcel(00000000 00000000   '........')
+...
+[01:11:16] ℹ️ STDERR: empty
+[01:11:16] ✅ Service call returned data
+[01:11:16] 📊 Extracted: user='', likes='00000000'
+[01:11:16] 🔍 Comparing videos:
+[01:11:16]    Before: desc='extracted_from_text...', user='', likes='00000000'
+[01:11:16]    After:  desc='extracted_from_text...', user='', likes='00000000'
+[01:11:16] ⚠️ No video change detected - same content
+[01:11:16] ⚠️ Video didn't change - trying ONE more faster swipe
+[01:11:16] 🚀 Fast retry swipe: (500,1760) -> (513,794) in 87ms
+[01:11:18] 🔍 UI dump alınıyor...
+[01:11:18] 🔄 UI dump deneme 1/3 (compressed -> file)...
+[01:11:18] 🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml
+[01:11:19] 📊 ADB result: return_code=137
+[01:11:19] ⚠️ STDOUT: empty
+[01:11:19] ℹ️ STDERR: empty
+[01:11:19] ❌ Command failed with code 137
+[01:11:19] ❌ UI dump deneme 1 başarısız (code/loglara bak)
+[01:11:20] 🔄 UI dump deneme 2/3 (compressed -> file)...
+[01:11:20] 🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml
+[01:11:20] 📊 ADB result: return_code=137
+[01:11:20] ⚠️ STDOUT: empty
+[01:11:20] ℹ️ STDERR: empty
+[01:11:20] ❌ Command failed with code 137
+[01:11:20] ❌ UI dump deneme 2 başarısız (code/loglara bak)
+[01:11:21] 🔄 UI dump deneme 3/3 (compressed -> file)...
+[01:11:21] 🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml
+[01:11:21] 📊 ADB result: return_code=137
+[01:11:21] ⚠️ STDOUT: empty
+[01:11:21] ℹ️ STDERR: empty
+[01:11:21] ❌ Command failed with code 137
+[01:11:21] ❌ UI dump deneme 3 başarısız (code/loglara bak)
+[01:11:21] 📱 Fallback: uiautomator dump --compressed (default path)
+[01:11:21] 🔧 ADB command: shell uiautomator dump --compressed
+[01:11:22] 📊 ADB result: return_code=137
+[01:11:22] ⚠️ STDOUT: empty
+[01:11:22] ℹ️ STDERR: empty
+[01:11:22] ❌ Command failed with code 137
+[01:11:22] 📡 Fallback: exec-out uiautomator dump --compressed /dev/tty
+[01:11:22] 🔧 ADB command: exec-out uiautomator dump --compressed /dev/tty
+[01:11:22] 📊 ADB result: return_code=0
+[01:11:22] ✅ STDOUT: Killed 
+...
+[01:11:22] ℹ️ STDERR: empty
+[01:11:22] 🧪 Fallback: uiautomator dump (no --compressed)
+[01:11:22] 🔧 ADB command: shell uiautomator dump /sdcard/ui_dump.xml
+[01:11:22] 📊 ADB result: return_code=137
+[01:11:22] ⚠️ STDOUT: empty
+[01:11:22] ℹ️ STDERR: empty
+[01:11:22] ❌ Command failed with code 137
+[01:11:22] ❌ Tüm UI dump yöntemleri başarısız
+[01:11:22] 🔄 Alternatif yöntem deneniyor...
+[01:11:22] 🔄 Alternative: Trying different approaches...
+[01:11:22] 📱 Method 1: Trying uiautomator --compressed (default path)...
+[01:11:22] 🔧 ADB command: shell uiautomator dump --compressed
+[01:11:22] 📊 ADB result: return_code=137
+[01:11:22] ⚠️ STDOUT: empty
+[01:11:22] ℹ️ STDERR: empty
+[01:11:22] ❌ Command failed with code 137
+[01:11:22] 📱 Method 2: Trying service call...
+[01:11:22] 🔧 ADB command: shell service call window 1
+[01:11:22] 📊 ADB result: return_code=0
+[01:11:22] ✅ STDOUT: Result: Parcel(00000000 00000000   '........')
+...
+[01:11:22] ℹ️ STDERR: empty
+[01:11:22] ✅ Service call returned data
+[01:11:22] 📊 Extracted: user='', likes='00000000'
+[01:11:22] 🔍 Comparing videos:
+[01:11:22]    Before: desc='extracted_from_text...', user='', likes='00000000'
+[01:11:22]    After:  desc='extracted_from_text...', user='', likes='00000000'
+[01:11:22] ⚠️ No video change detected - same content
+[01:11:22] ⏭️ Proceeding anyway - may be UI parsing issue
+[01:11:25] 📹 Video #2
+[01:11:25]    ⚡ Enerji: 88%
+[01:11:25] 🔍 UI dump alınıyor...
+[01:11:26] 🔄 UI dump deneme 1/3 (compressed -> file)...
+[01:11:26] 🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml
+[01:11:26] 📊 ADB result: return_code=137
+[01:11:26] ⚠️ STDOUT: empty
+[01:11:26] ℹ️ STDERR: empty
+[01:11:26] ❌ Command failed with code 137
+[01:11:26] ❌ UI dump deneme 1 başarısız (code/loglara bak)
+[01:11:27] 🔄 UI dump deneme 2/3 (compressed -> file)...
+[01:11:27] 🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml
+[01:11:28] 📊 ADB result: return_code=137
+[01:11:28] ⚠️ STDOUT: empty
+[01:11:28] ℹ️ STDERR: empty
+[01:11:28] ❌ Command failed with code 137
+[01:11:28] ❌ UI dump deneme 2 başarısız (code/loglara bak)
+[01:11:29] 🔄 UI dump deneme 3/3 (compressed -> file)...
+[01:11:29] 🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml
+[01:11:29] 📊 ADB result: return_code=137
+[01:11:29] ⚠️ STDOUT: empty
+[01:11:29] ℹ️ STDERR: empty
+[01:11:29] ❌ Command failed with code 137
+[01:11:29] ❌ UI dump deneme 3 başarısız (code/loglara bak)
+[01:11:29] 📱 Fallback: uiautomator dump --compressed (default path)
+[01:11:29] 🔧 ADB command: shell uiautomator dump --compressed
+[01:11:29] 📊 ADB result: return_code=137
+[01:11:29] ⚠️ STDOUT: empty
+[01:11:29] ℹ️ STDERR: empty
+[01:11:29] ❌ Command failed with code 137
+[01:11:29] 📡 Fallback: exec-out uiautomator dump --compressed /dev/tty
+[01:11:29] 🔧 ADB command: exec-out uiautomator dump --compressed /dev/tty
+[01:11:30] 📊 ADB result: return_code=0
+[01:11:30] ✅ STDOUT: Killed 
+...
+[01:11:30] ℹ️ STDERR: empty
+[01:11:30] 🧪 Fallback: uiautomator dump (no --compressed)
+[01:11:30] 🔧 ADB command: shell uiautomator dump /sdcard/ui_dump.xml
+[01:11:30] 📊 ADB result: return_code=137
+[01:11:30] ⚠️ STDOUT: empty
+[01:11:30] ℹ️ STDERR: empty
+[01:11:30] ❌ Command failed with code 137
+[01:11:30] ❌ Tüm UI dump yöntemleri başarısız
+[01:11:30] 🔄 Alternatif yöntem deneniyor...
+[01:11:30] 🔄 Alternative: Trying different approaches...
+[01:11:30] 📱 Method 1: Trying uiautomator --compressed (default path)...
+[01:11:30] 🔧 ADB command: shell uiautomator dump --compressed
+[01:11:30] 📊 ADB result: return_code=137
+[01:11:30] ⚠️ STDOUT: empty
+[01:11:30] ℹ️ STDERR: empty
+[01:11:30] ❌ Command failed with code 137
+[01:11:30] 📱 Method 2: Trying service call...
+[01:11:30] 🔧 ADB command: shell service call window 1
+[01:11:30] 📊 ADB result: return_code=0
+[01:11:30] ✅ STDOUT: Result: Parcel(00000000 00000000   '........')
+...
+[01:11:30] ℹ️ STDERR: empty
+[01:11:30] ✅ Service call returned data
+[01:11:30] 📊 Extracted: user='', likes='00000000'
+[01:11:30] 🔍 CompTIA araması: 'extracted_from_text...'
+[01:11:30] ❌ CompTIA keyword bulunamadı
+[01:11:30]    ⏱️ 10.0 saniye izlenecek...
+[01:11:36]    ❤️ Buton beğeni
+[01:11:36] 📸 Screenshot alınıyor: liked_video_002_button.png
+[01:11:36] 📱 ADB screencap komutu çalıştırılıyor...
+[01:11:37] ✅ ADB screencap başarılı
+[01:11:38] 💾 Dosya çekiliyor: /sdcard/temp_screenshot.png -> sessions/comptia_bot_20250905_011049/screenshots/liked_video_002_button.png
+[01:11:38] ✅ ADB pull başarılı
+[01:11:38] ✅ Screenshot kaydedildi: liked_video_002_button.png (1456853 bytes)
+[01:11:38] 📄 Video bilgileri kaydedildi: 1 total
+[01:11:42]    ⬆️ Sonraki video...
+[01:11:42] 🏃 Swipe distance: 454px, duration: 164ms
+[01:11:42] 🔍 UI dump alınıyor...
+[01:11:42] 🔄 UI dump deneme 1/3 (compressed -> file)...
+[01:11:42] 🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml
+[01:11:43] 📊 ADB result: return_code=137
+[01:11:43] ⚠️ STDOUT: empty
+[01:11:43] ℹ️ STDERR: empty
+[01:11:43] ❌ Command failed with code 137
+[01:11:43] ❌ UI dump deneme 1 başarısız (code/loglara bak)
+[01:11:44] 🔄 UI dump deneme 2/3 (compressed -> file)...
+[01:11:44] 🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml
+[01:11:44] 📊 ADB result: return_code=137
+[01:11:44] ⚠️ STDOUT: empty
+[01:11:44] ℹ️ STDERR: empty
+[01:11:44] ❌ Command failed with code 137
+[01:11:44] ❌ UI dump deneme 2 başarısız (code/loglara bak)
+[01:11:45] 
+==================================================
+[01:11:45] 📊 OTURUM RAPORU
+[01:11:45] ==================================================
+[01:11:45] ⏱️ Toplam Süre: 0.9 dakika
+[01:11:45] 📹 İzlenen Video: 2
+[01:11:45] 🎯 CompTIA Video: 0 (0%)
+[01:11:45] ❤️ Beğeni: 1
+[01:11:45] 💾 Kaydedilen: 0
+[01:11:45] 💬 Yorum Açılan: 0
+[01:11:45] 👤 Profil Ziyareti: 0
+[01:11:45] ⏰ Ortalama İzleme: 7.7 sn/video
+[01:11:45] 
+📁 Session dosyaları: sessions/comptia_bot_20250905_011049
+[01:11:45] 📸 Screenshots: 1 adet
+[01:11:45] 
+🎉 Bot başarıyla tamamlandı!
+[01:11:45] 📄 Session raporu kaydedildi: session_report.json

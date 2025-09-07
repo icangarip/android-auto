@@ -1,0 +1,83 @@
+Session started 20250906_105742
+Session folder: sessions/locator_20250906_105742
+📁 Session klasörü hazır
+
+📹 Video #1
+📝 Description: I was there perfect on time 🥹❤️ one meal at a time 🙏🏻❤️ …more
+🏷️ Title: Moco Car
+🎯 Decision: skip
+
+📹 Video #2
+📝 No description found
+🎯 Decision: LIKE (reason: random 30%)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_105742/screenshots/liked_video_002.png
+
+📹 Video #3
+📝 Description: Over 40 content creator tips!  …more
+🏷️ Title: Amber| Over 40 Content creator
+🎯 Decision: skip
+
+📹 Video #4
+📝 Description: 🇲🇽+🇯🇵= just make sense! When I was opening my bakery a…more
+🏷️ Title: panpanbakeryandcafe
+🎯 Decision: LIKE (reason: random 30%)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_105742/screenshots/liked_video_004.png
+
+📹 Video #5
+📝 Description: #fyp #newfollowers
+🏷️ Title: Aisha Webb
+🎯 Decision: skip
+
+📹 Video #6
+📝 Description: Rewriting Love’s Lessons Piece by Piece 🥰😘😍
+🏷️ Title: Your Closing Specialist
+🎯 Decision: skip
+
+📹 Video #7
+📝 Description: Song : p31 by Richdanfamous #c…more
+🏷️ Title: Richdanfamous
+🎯 Decision: skip
+
+📹 Video #8
+📝 Description: Watch this ☝🏽 …more
+🏷️ Title: Kingdom Mentality
+🎯 Decision: LIKE (reason: random 30%)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_105742/screenshots/liked_video_008.png
+
+📹 Video #9
+📝 Description: #falling #trevordaniel #lyrics #songs
+🏷️ Title: Song Lyrics
+🎯 Decision: skip
+
+📹 Video #10
+📝 Description: Don't chase them !!!…more
+🏷️ Title: Pro Minds Extra
+🎯 Decision: skip
+
+📹 Video #11
+📝 No description found
+🎯 Decision: LIKE (reason: random 30%)
+❤️  Searching for Like button (locators)...
+❌ Like button not found!
+⚠️  Like failed (locator)
+
+📹 Video #12
+📝 No description found
+🎯 Decision: LIKE (reason: random 30%)
+❤️  Searching for Like button (locators)...
+❌ Like button not found!
+⚠️  Like failed (locator)
+
+📹 Video #13
+📝 No description found
+🎯 Decision: skip
+
+📹 Video #14
+📝 No description found
+🎯 Decision: skip

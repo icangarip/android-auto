@@ -1,0 +1,1808 @@
+{
+  "session_info": {
+    "timestamp": "2025-09-05T01:11:45.312220",
+    "duration_minutes": 0.9,
+    "folder": "sessions/comptia_bot_20250905_011049"
+  },
+  "user_profile": {
+    "dominant_hand": "left",
+    "finger_size": 1.0397401523889154,
+    "precision_level": 1.2851935161395538,
+    "swipe_style": "straight",
+    "speed_preference": 1.108372580258645
+  },
+  "interaction_patterns": {
+    "total_interactions": 3,
+    "touch_history_samples": [
+      [
+        969,
+        1179
+      ]
+    ],
+    "swipe_patterns_samples": [
+      {
+        "start_offset_x": 9,
+        "start_offset_y": 15,
+        "end_offset_x": 12,
+        "end_offset_y": -15,
+        "duration": 83,
+        "success": true,
+        "pattern_index": 4
+      }
+    ],
+    "final_energy_level": 0.88
+  },
+  "statistics": {
+    "videos_watched": 2,
+    "comptia_videos": 0,
+    "comptia_percentage": 0.0,
+    "likes_given": 1,
+    "videos_saved": 0,
+    "comments_opened": 0,
+    "profiles_visited": 0,
+    "total_watch_time": 15.5,
+    "average_watch_time": 7.7
+  },
+  "logs": [
+    {
+      "timestamp": "01:10:49",
+      "message": "🚀 Session started: 20250905_011049",
+      "full_timestamp": "2025-09-05T01:10:49.975469"
+    },
+    {
+      "timestamp": "01:10:49",
+      "message": "📁 Folder: sessions/comptia_bot_20250905_011049",
+      "full_timestamp": "2025-09-05T01:10:49.975612"
+    },
+    {
+      "timestamp": "01:10:49",
+      "message": "👤 User Profile:",
+      "full_timestamp": "2025-09-05T01:10:49.975660"
+    },
+    {
+      "timestamp": "01:10:49",
+      "message": "   • Dominant hand: left",
+      "full_timestamp": "2025-09-05T01:10:49.975708"
+    },
+    {
+      "timestamp": "01:10:49",
+      "message": "   • Finger size factor: 1.04",
+      "full_timestamp": "2025-09-05T01:10:49.975788"
+    },
+    {
+      "timestamp": "01:10:49",
+      "message": "   • Precision level: 1.29",
+      "full_timestamp": "2025-09-05T01:10:49.975847"
+    },
+    {
+      "timestamp": "01:10:49",
+      "message": "   • Swipe style: straight",
+      "full_timestamp": "2025-09-05T01:10:49.975895"
+    },
+    {
+      "timestamp": "01:10:49",
+      "message": "   • Speed preference: 1.11",
+      "full_timestamp": "2025-09-05T01:10:49.975942"
+    },
+    {
+      "timestamp": "01:10:49",
+      "message": "🚀 CompTIA TikTok Bot Başlatılıyor",
+      "full_timestamp": "2025-09-05T01:10:49.976000"
+    },
+    {
+      "timestamp": "01:10:49",
+      "message": "==================================================",
+      "full_timestamp": "2025-09-05T01:10:49.976074"
+    },
+    {
+      "timestamp": "01:10:49",
+      "message": "⏰ Süre: 2 dakika",
+      "full_timestamp": "2025-09-05T01:10:49.976118"
+    },
+    {
+      "timestamp": "01:10:49",
+      "message": "🎯 Hedef: CompTIA içerikleri",
+      "full_timestamp": "2025-09-05T01:10:49.976191"
+    },
+    {
+      "timestamp": "01:10:49",
+      "message": "==================================================",
+      "full_timestamp": "2025-09-05T01:10:49.976234"
+    },
+    {
+      "timestamp": "01:10:49",
+      "message": "📱 TikTok açılıyor...",
+      "full_timestamp": "2025-09-05T01:10:49.976278"
+    },
+    {
+      "timestamp": "01:10:55",
+      "message": "📹 Video #1",
+      "full_timestamp": "2025-09-05T01:10:55.409551"
+    },
+    {
+      "timestamp": "01:10:55",
+      "message": "   ⚡ Enerji: 98%",
+      "full_timestamp": "2025-09-05T01:10:55.409694"
+    },
+    {
+      "timestamp": "01:10:55",
+      "message": "🔍 UI dump alınıyor...",
+      "full_timestamp": "2025-09-05T01:10:55.409739"
+    },
+    {
+      "timestamp": "01:10:55",
+      "message": "🔄 UI dump deneme 1/3 (compressed -> file)...",
+      "full_timestamp": "2025-09-05T01:10:55.696076"
+    },
+    {
+      "timestamp": "01:10:55",
+      "message": "🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:10:55.696203"
+    },
+    {
+      "timestamp": "01:10:56",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:10:56.019274"
+    },
+    {
+      "timestamp": "01:10:56",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:10:56.019429"
+    },
+    {
+      "timestamp": "01:10:56",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:10:56.019487"
+    },
+    {
+      "timestamp": "01:10:56",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:10:56.019542"
+    },
+    {
+      "timestamp": "01:10:56",
+      "message": "❌ UI dump deneme 1 başarısız (code/loglara bak)",
+      "full_timestamp": "2025-09-05T01:10:56.019593"
+    },
+    {
+      "timestamp": "01:10:57",
+      "message": "🔄 UI dump deneme 2/3 (compressed -> file)...",
+      "full_timestamp": "2025-09-05T01:10:57.219920"
+    },
+    {
+      "timestamp": "01:10:57",
+      "message": "🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:10:57.220069"
+    },
+    {
+      "timestamp": "01:10:57",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:10:57.514357"
+    },
+    {
+      "timestamp": "01:10:57",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:10:57.514483"
+    },
+    {
+      "timestamp": "01:10:57",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:10:57.514528"
+    },
+    {
+      "timestamp": "01:10:57",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:10:57.514581"
+    },
+    {
+      "timestamp": "01:10:57",
+      "message": "❌ UI dump deneme 2 başarısız (code/loglara bak)",
+      "full_timestamp": "2025-09-05T01:10:57.514637"
+    },
+    {
+      "timestamp": "01:10:58",
+      "message": "🔄 UI dump deneme 3/3 (compressed -> file)...",
+      "full_timestamp": "2025-09-05T01:10:58.715149"
+    },
+    {
+      "timestamp": "01:10:58",
+      "message": "🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:10:58.715288"
+    },
+    {
+      "timestamp": "01:10:58",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:10:58.949542"
+    },
+    {
+      "timestamp": "01:10:58",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:10:58.949713"
+    },
+    {
+      "timestamp": "01:10:58",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:10:58.949781"
+    },
+    {
+      "timestamp": "01:10:58",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:10:58.949853"
+    },
+    {
+      "timestamp": "01:10:58",
+      "message": "❌ UI dump deneme 3 başarısız (code/loglara bak)",
+      "full_timestamp": "2025-09-05T01:10:58.949925"
+    },
+    {
+      "timestamp": "01:10:58",
+      "message": "📱 Fallback: uiautomator dump --compressed (default path)",
+      "full_timestamp": "2025-09-05T01:10:58.949978"
+    },
+    {
+      "timestamp": "01:10:58",
+      "message": "🔧 ADB command: shell uiautomator dump --compressed",
+      "full_timestamp": "2025-09-05T01:10:58.950024"
+    },
+    {
+      "timestamp": "01:10:59",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:10:59.176070"
+    },
+    {
+      "timestamp": "01:10:59",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:10:59.176179"
+    },
+    {
+      "timestamp": "01:10:59",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:10:59.176283"
+    },
+    {
+      "timestamp": "01:10:59",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:10:59.176330"
+    },
+    {
+      "timestamp": "01:10:59",
+      "message": "📡 Fallback: exec-out uiautomator dump --compressed /dev/tty",
+      "full_timestamp": "2025-09-05T01:10:59.176376"
+    },
+    {
+      "timestamp": "01:10:59",
+      "message": "🔧 ADB command: exec-out uiautomator dump --compressed /dev/tty",
+      "full_timestamp": "2025-09-05T01:10:59.176422"
+    },
+    {
+      "timestamp": "01:10:59",
+      "message": "📊 ADB result: return_code=0",
+      "full_timestamp": "2025-09-05T01:10:59.411436"
+    },
+    {
+      "timestamp": "01:10:59",
+      "message": "✅ STDOUT: Killed \n...",
+      "full_timestamp": "2025-09-05T01:10:59.411641"
+    },
+    {
+      "timestamp": "01:10:59",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:10:59.411694"
+    },
+    {
+      "timestamp": "01:10:59",
+      "message": "🧪 Fallback: uiautomator dump (no --compressed)",
+      "full_timestamp": "2025-09-05T01:10:59.411738"
+    },
+    {
+      "timestamp": "01:10:59",
+      "message": "🔧 ADB command: shell uiautomator dump /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:10:59.411851"
+    },
+    {
+      "timestamp": "01:10:59",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:10:59.641875"
+    },
+    {
+      "timestamp": "01:10:59",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:10:59.642024"
+    },
+    {
+      "timestamp": "01:10:59",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:10:59.642103"
+    },
+    {
+      "timestamp": "01:10:59",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:10:59.642143"
+    },
+    {
+      "timestamp": "01:10:59",
+      "message": "❌ Tüm UI dump yöntemleri başarısız",
+      "full_timestamp": "2025-09-05T01:10:59.642184"
+    },
+    {
+      "timestamp": "01:10:59",
+      "message": "🔄 Alternatif yöntem deneniyor...",
+      "full_timestamp": "2025-09-05T01:10:59.642219"
+    },
+    {
+      "timestamp": "01:10:59",
+      "message": "🔄 Alternative: Trying different approaches...",
+      "full_timestamp": "2025-09-05T01:10:59.642239"
+    },
+    {
+      "timestamp": "01:10:59",
+      "message": "📱 Method 1: Trying uiautomator --compressed (default path)...",
+      "full_timestamp": "2025-09-05T01:10:59.642268"
+    },
+    {
+      "timestamp": "01:10:59",
+      "message": "🔧 ADB command: shell uiautomator dump --compressed",
+      "full_timestamp": "2025-09-05T01:10:59.642314"
+    },
+    {
+      "timestamp": "01:10:59",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:10:59.910809"
+    },
+    {
+      "timestamp": "01:10:59",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:10:59.910963"
+    },
+    {
+      "timestamp": "01:10:59",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:10:59.911978"
+    },
+    {
+      "timestamp": "01:10:59",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:10:59.912080"
+    },
+    {
+      "timestamp": "01:10:59",
+      "message": "📱 Method 2: Trying service call...",
+      "full_timestamp": "2025-09-05T01:10:59.912126"
+    },
+    {
+      "timestamp": "01:10:59",
+      "message": "🔧 ADB command: shell service call window 1",
+      "full_timestamp": "2025-09-05T01:10:59.912176"
+    },
+    {
+      "timestamp": "01:10:59",
+      "message": "📊 ADB result: return_code=0",
+      "full_timestamp": "2025-09-05T01:10:59.987705"
+    },
+    {
+      "timestamp": "01:10:59",
+      "message": "✅ STDOUT: Result: Parcel(00000000 00000000   '........')\n...",
+      "full_timestamp": "2025-09-05T01:10:59.987846"
+    },
+    {
+      "timestamp": "01:10:59",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:10:59.987890"
+    },
+    {
+      "timestamp": "01:10:59",
+      "message": "✅ Service call returned data",
+      "full_timestamp": "2025-09-05T01:10:59.987935"
+    },
+    {
+      "timestamp": "01:10:59",
+      "message": "📊 Extracted: user='', likes='00000000'",
+      "full_timestamp": "2025-09-05T01:10:59.988296"
+    },
+    {
+      "timestamp": "01:10:59",
+      "message": "🔍 CompTIA araması: 'extracted_from_text...'",
+      "full_timestamp": "2025-09-05T01:10:59.988379"
+    },
+    {
+      "timestamp": "01:10:59",
+      "message": "❌ CompTIA keyword bulunamadı",
+      "full_timestamp": "2025-09-05T01:10:59.988428"
+    },
+    {
+      "timestamp": "01:10:59",
+      "message": "   ⏱️ 5.5 saniye izlenecek...",
+      "full_timestamp": "2025-09-05T01:10:59.988522"
+    },
+    {
+      "timestamp": "01:11:05",
+      "message": "   ⬆️ Sonraki video...",
+      "full_timestamp": "2025-09-05T01:11:05.515368"
+    },
+    {
+      "timestamp": "01:11:05",
+      "message": "🏃 Swipe distance: 393px, duration: 93ms",
+      "full_timestamp": "2025-09-05T01:11:05.515581"
+    },
+    {
+      "timestamp": "01:11:05",
+      "message": "🔍 UI dump alınıyor...",
+      "full_timestamp": "2025-09-05T01:11:05.515615"
+    },
+    {
+      "timestamp": "01:11:05",
+      "message": "🔄 UI dump deneme 1/3 (compressed -> file)...",
+      "full_timestamp": "2025-09-05T01:11:05.806953"
+    },
+    {
+      "timestamp": "01:11:05",
+      "message": "🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:11:05.807121"
+    },
+    {
+      "timestamp": "01:11:06",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:11:06.116971"
+    },
+    {
+      "timestamp": "01:11:06",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:11:06.117107"
+    },
+    {
+      "timestamp": "01:11:06",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:11:06.117158"
+    },
+    {
+      "timestamp": "01:11:06",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:11:06.117211"
+    },
+    {
+      "timestamp": "01:11:06",
+      "message": "❌ UI dump deneme 1 başarısız (code/loglara bak)",
+      "full_timestamp": "2025-09-05T01:11:06.117262"
+    },
+    {
+      "timestamp": "01:11:07",
+      "message": "🔄 UI dump deneme 2/3 (compressed -> file)...",
+      "full_timestamp": "2025-09-05T01:11:07.317608"
+    },
+    {
+      "timestamp": "01:11:07",
+      "message": "🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:11:07.317740"
+    },
+    {
+      "timestamp": "01:11:07",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:11:07.622777"
+    },
+    {
+      "timestamp": "01:11:07",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:11:07.622922"
+    },
+    {
+      "timestamp": "01:11:07",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:11:07.622965"
+    },
+    {
+      "timestamp": "01:11:07",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:11:07.623006"
+    },
+    {
+      "timestamp": "01:11:07",
+      "message": "❌ UI dump deneme 2 başarısız (code/loglara bak)",
+      "full_timestamp": "2025-09-05T01:11:07.623046"
+    },
+    {
+      "timestamp": "01:11:08",
+      "message": "🔄 UI dump deneme 3/3 (compressed -> file)...",
+      "full_timestamp": "2025-09-05T01:11:08.823375"
+    },
+    {
+      "timestamp": "01:11:08",
+      "message": "🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:11:08.823572"
+    },
+    {
+      "timestamp": "01:11:09",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:11:09.133960"
+    },
+    {
+      "timestamp": "01:11:09",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:11:09.134131"
+    },
+    {
+      "timestamp": "01:11:09",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:11:09.134174"
+    },
+    {
+      "timestamp": "01:11:09",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:11:09.134217"
+    },
+    {
+      "timestamp": "01:11:09",
+      "message": "❌ UI dump deneme 3 başarısız (code/loglara bak)",
+      "full_timestamp": "2025-09-05T01:11:09.134268"
+    },
+    {
+      "timestamp": "01:11:09",
+      "message": "📱 Fallback: uiautomator dump --compressed (default path)",
+      "full_timestamp": "2025-09-05T01:11:09.134314"
+    },
+    {
+      "timestamp": "01:11:09",
+      "message": "🔧 ADB command: shell uiautomator dump --compressed",
+      "full_timestamp": "2025-09-05T01:11:09.134359"
+    },
+    {
+      "timestamp": "01:11:09",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:11:09.468168"
+    },
+    {
+      "timestamp": "01:11:09",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:11:09.468315"
+    },
+    {
+      "timestamp": "01:11:09",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:11:09.468358"
+    },
+    {
+      "timestamp": "01:11:09",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:11:09.468402"
+    },
+    {
+      "timestamp": "01:11:09",
+      "message": "📡 Fallback: exec-out uiautomator dump --compressed /dev/tty",
+      "full_timestamp": "2025-09-05T01:11:09.468466"
+    },
+    {
+      "timestamp": "01:11:09",
+      "message": "🔧 ADB command: exec-out uiautomator dump --compressed /dev/tty",
+      "full_timestamp": "2025-09-05T01:11:09.468562"
+    },
+    {
+      "timestamp": "01:11:09",
+      "message": "📊 ADB result: return_code=0",
+      "full_timestamp": "2025-09-05T01:11:09.732969"
+    },
+    {
+      "timestamp": "01:11:09",
+      "message": "✅ STDOUT: Killed \n...",
+      "full_timestamp": "2025-09-05T01:11:09.733122"
+    },
+    {
+      "timestamp": "01:11:09",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:11:09.733187"
+    },
+    {
+      "timestamp": "01:11:09",
+      "message": "🧪 Fallback: uiautomator dump (no --compressed)",
+      "full_timestamp": "2025-09-05T01:11:09.733286"
+    },
+    {
+      "timestamp": "01:11:09",
+      "message": "🔧 ADB command: shell uiautomator dump /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:11:09.733405"
+    },
+    {
+      "timestamp": "01:11:09",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:11:09.955146"
+    },
+    {
+      "timestamp": "01:11:09",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:11:09.955314"
+    },
+    {
+      "timestamp": "01:11:09",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:11:09.955394"
+    },
+    {
+      "timestamp": "01:11:09",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:11:09.955457"
+    },
+    {
+      "timestamp": "01:11:09",
+      "message": "❌ Tüm UI dump yöntemleri başarısız",
+      "full_timestamp": "2025-09-05T01:11:09.955516"
+    },
+    {
+      "timestamp": "01:11:09",
+      "message": "🔄 Alternatif yöntem deneniyor...",
+      "full_timestamp": "2025-09-05T01:11:09.955556"
+    },
+    {
+      "timestamp": "01:11:09",
+      "message": "🔄 Alternative: Trying different approaches...",
+      "full_timestamp": "2025-09-05T01:11:09.955595"
+    },
+    {
+      "timestamp": "01:11:09",
+      "message": "📱 Method 1: Trying uiautomator --compressed (default path)...",
+      "full_timestamp": "2025-09-05T01:11:09.955626"
+    },
+    {
+      "timestamp": "01:11:09",
+      "message": "🔧 ADB command: shell uiautomator dump --compressed",
+      "full_timestamp": "2025-09-05T01:11:09.955695"
+    },
+    {
+      "timestamp": "01:11:10",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:11:10.179457"
+    },
+    {
+      "timestamp": "01:11:10",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:11:10.179641"
+    },
+    {
+      "timestamp": "01:11:10",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:11:10.179689"
+    },
+    {
+      "timestamp": "01:11:10",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:11:10.179721"
+    },
+    {
+      "timestamp": "01:11:10",
+      "message": "📱 Method 2: Trying service call...",
+      "full_timestamp": "2025-09-05T01:11:10.179768"
+    },
+    {
+      "timestamp": "01:11:10",
+      "message": "🔧 ADB command: shell service call window 1",
+      "full_timestamp": "2025-09-05T01:11:10.179839"
+    },
+    {
+      "timestamp": "01:11:10",
+      "message": "📊 ADB result: return_code=0",
+      "full_timestamp": "2025-09-05T01:11:10.227898"
+    },
+    {
+      "timestamp": "01:11:10",
+      "message": "✅ STDOUT: Result: Parcel(00000000 00000000   '........')\n...",
+      "full_timestamp": "2025-09-05T01:11:10.228012"
+    },
+    {
+      "timestamp": "01:11:10",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:11:10.228056"
+    },
+    {
+      "timestamp": "01:11:10",
+      "message": "✅ Service call returned data",
+      "full_timestamp": "2025-09-05T01:11:10.228103"
+    },
+    {
+      "timestamp": "01:11:10",
+      "message": "📊 Extracted: user='', likes='00000000'",
+      "full_timestamp": "2025-09-05T01:11:10.228165"
+    },
+    {
+      "timestamp": "01:11:10",
+      "message": "✅ Swipe executed: (909,1665) -> (1012,1285) in 83ms",
+      "full_timestamp": "2025-09-05T01:11:10.408253"
+    },
+    {
+      "timestamp": "01:11:11",
+      "message": "🔍 UI dump alınıyor...",
+      "full_timestamp": "2025-09-05T01:11:11.908541"
+    },
+    {
+      "timestamp": "01:11:12",
+      "message": "🔄 UI dump deneme 1/3 (compressed -> file)...",
+      "full_timestamp": "2025-09-05T01:11:12.196399"
+    },
+    {
+      "timestamp": "01:11:12",
+      "message": "🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:11:12.196514"
+    },
+    {
+      "timestamp": "01:11:12",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:11:12.506791"
+    },
+    {
+      "timestamp": "01:11:12",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:11:12.506909"
+    },
+    {
+      "timestamp": "01:11:12",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:11:12.506951"
+    },
+    {
+      "timestamp": "01:11:12",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:11:12.507003"
+    },
+    {
+      "timestamp": "01:11:12",
+      "message": "❌ UI dump deneme 1 başarısız (code/loglara bak)",
+      "full_timestamp": "2025-09-05T01:11:12.507067"
+    },
+    {
+      "timestamp": "01:11:13",
+      "message": "🔄 UI dump deneme 2/3 (compressed -> file)...",
+      "full_timestamp": "2025-09-05T01:11:13.707426"
+    },
+    {
+      "timestamp": "01:11:13",
+      "message": "🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:11:13.707555"
+    },
+    {
+      "timestamp": "01:11:14",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:11:14.032837"
+    },
+    {
+      "timestamp": "01:11:14",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:11:14.032960"
+    },
+    {
+      "timestamp": "01:11:14",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:11:14.033052"
+    },
+    {
+      "timestamp": "01:11:14",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:11:14.033073"
+    },
+    {
+      "timestamp": "01:11:14",
+      "message": "❌ UI dump deneme 2 başarısız (code/loglara bak)",
+      "full_timestamp": "2025-09-05T01:11:14.033108"
+    },
+    {
+      "timestamp": "01:11:15",
+      "message": "🔄 UI dump deneme 3/3 (compressed -> file)...",
+      "full_timestamp": "2025-09-05T01:11:15.233461"
+    },
+    {
+      "timestamp": "01:11:15",
+      "message": "🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:11:15.233590"
+    },
+    {
+      "timestamp": "01:11:15",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:11:15.494265"
+    },
+    {
+      "timestamp": "01:11:15",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:11:15.494416"
+    },
+    {
+      "timestamp": "01:11:15",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:11:15.494477"
+    },
+    {
+      "timestamp": "01:11:15",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:11:15.494538"
+    },
+    {
+      "timestamp": "01:11:15",
+      "message": "❌ UI dump deneme 3 başarısız (code/loglara bak)",
+      "full_timestamp": "2025-09-05T01:11:15.494600"
+    },
+    {
+      "timestamp": "01:11:15",
+      "message": "📱 Fallback: uiautomator dump --compressed (default path)",
+      "full_timestamp": "2025-09-05T01:11:15.494682"
+    },
+    {
+      "timestamp": "01:11:15",
+      "message": "🔧 ADB command: shell uiautomator dump --compressed",
+      "full_timestamp": "2025-09-05T01:11:15.494730"
+    },
+    {
+      "timestamp": "01:11:15",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:11:15.714873"
+    },
+    {
+      "timestamp": "01:11:15",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:11:15.715005"
+    },
+    {
+      "timestamp": "01:11:15",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:11:15.715048"
+    },
+    {
+      "timestamp": "01:11:15",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:11:15.715121"
+    },
+    {
+      "timestamp": "01:11:15",
+      "message": "📡 Fallback: exec-out uiautomator dump --compressed /dev/tty",
+      "full_timestamp": "2025-09-05T01:11:15.715167"
+    },
+    {
+      "timestamp": "01:11:15",
+      "message": "🔧 ADB command: exec-out uiautomator dump --compressed /dev/tty",
+      "full_timestamp": "2025-09-05T01:11:15.715211"
+    },
+    {
+      "timestamp": "01:11:15",
+      "message": "📊 ADB result: return_code=0",
+      "full_timestamp": "2025-09-05T01:11:15.936052"
+    },
+    {
+      "timestamp": "01:11:15",
+      "message": "✅ STDOUT: Killed \n...",
+      "full_timestamp": "2025-09-05T01:11:15.936194"
+    },
+    {
+      "timestamp": "01:11:15",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:11:15.936252"
+    },
+    {
+      "timestamp": "01:11:15",
+      "message": "🧪 Fallback: uiautomator dump (no --compressed)",
+      "full_timestamp": "2025-09-05T01:11:15.936296"
+    },
+    {
+      "timestamp": "01:11:15",
+      "message": "🔧 ADB command: shell uiautomator dump /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:11:15.936348"
+    },
+    {
+      "timestamp": "01:11:16",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:11:16.159923"
+    },
+    {
+      "timestamp": "01:11:16",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:11:16.160054"
+    },
+    {
+      "timestamp": "01:11:16",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:11:16.160120"
+    },
+    {
+      "timestamp": "01:11:16",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:11:16.160166"
+    },
+    {
+      "timestamp": "01:11:16",
+      "message": "❌ Tüm UI dump yöntemleri başarısız",
+      "full_timestamp": "2025-09-05T01:11:16.160210"
+    },
+    {
+      "timestamp": "01:11:16",
+      "message": "🔄 Alternatif yöntem deneniyor...",
+      "full_timestamp": "2025-09-05T01:11:16.160252"
+    },
+    {
+      "timestamp": "01:11:16",
+      "message": "🔄 Alternative: Trying different approaches...",
+      "full_timestamp": "2025-09-05T01:11:16.160297"
+    },
+    {
+      "timestamp": "01:11:16",
+      "message": "📱 Method 1: Trying uiautomator --compressed (default path)...",
+      "full_timestamp": "2025-09-05T01:11:16.160339"
+    },
+    {
+      "timestamp": "01:11:16",
+      "message": "🔧 ADB command: shell uiautomator dump --compressed",
+      "full_timestamp": "2025-09-05T01:11:16.160384"
+    },
+    {
+      "timestamp": "01:11:16",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:11:16.378297"
+    },
+    {
+      "timestamp": "01:11:16",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:11:16.378408"
+    },
+    {
+      "timestamp": "01:11:16",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:11:16.378477"
+    },
+    {
+      "timestamp": "01:11:16",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:11:16.378543"
+    },
+    {
+      "timestamp": "01:11:16",
+      "message": "📱 Method 2: Trying service call...",
+      "full_timestamp": "2025-09-05T01:11:16.378592"
+    },
+    {
+      "timestamp": "01:11:16",
+      "message": "🔧 ADB command: shell service call window 1",
+      "full_timestamp": "2025-09-05T01:11:16.378638"
+    },
+    {
+      "timestamp": "01:11:16",
+      "message": "📊 ADB result: return_code=0",
+      "full_timestamp": "2025-09-05T01:11:16.429310"
+    },
+    {
+      "timestamp": "01:11:16",
+      "message": "✅ STDOUT: Result: Parcel(00000000 00000000   '........')\n...",
+      "full_timestamp": "2025-09-05T01:11:16.429447"
+    },
+    {
+      "timestamp": "01:11:16",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:11:16.429493"
+    },
+    {
+      "timestamp": "01:11:16",
+      "message": "✅ Service call returned data",
+      "full_timestamp": "2025-09-05T01:11:16.429537"
+    },
+    {
+      "timestamp": "01:11:16",
+      "message": "📊 Extracted: user='', likes='00000000'",
+      "full_timestamp": "2025-09-05T01:11:16.429605"
+    },
+    {
+      "timestamp": "01:11:16",
+      "message": "🔍 Comparing videos:",
+      "full_timestamp": "2025-09-05T01:11:16.429651"
+    },
+    {
+      "timestamp": "01:11:16",
+      "message": "   Before: desc='extracted_from_text...', user='', likes='00000000'",
+      "full_timestamp": "2025-09-05T01:11:16.429694"
+    },
+    {
+      "timestamp": "01:11:16",
+      "message": "   After:  desc='extracted_from_text...', user='', likes='00000000'",
+      "full_timestamp": "2025-09-05T01:11:16.429736"
+    },
+    {
+      "timestamp": "01:11:16",
+      "message": "⚠️ No video change detected - same content",
+      "full_timestamp": "2025-09-05T01:11:16.429781"
+    },
+    {
+      "timestamp": "01:11:16",
+      "message": "⚠️ Video didn't change - trying ONE more faster swipe",
+      "full_timestamp": "2025-09-05T01:11:16.429825"
+    },
+    {
+      "timestamp": "01:11:16",
+      "message": "🚀 Fast retry swipe: (500,1760) -> (513,794) in 87ms",
+      "full_timestamp": "2025-09-05T01:11:16.603026"
+    },
+    {
+      "timestamp": "01:11:18",
+      "message": "🔍 UI dump alınıyor...",
+      "full_timestamp": "2025-09-05T01:11:18.403392"
+    },
+    {
+      "timestamp": "01:11:18",
+      "message": "🔄 UI dump deneme 1/3 (compressed -> file)...",
+      "full_timestamp": "2025-09-05T01:11:18.689028"
+    },
+    {
+      "timestamp": "01:11:18",
+      "message": "🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:11:18.689152"
+    },
+    {
+      "timestamp": "01:11:19",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:11:19.008381"
+    },
+    {
+      "timestamp": "01:11:19",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:11:19.008521"
+    },
+    {
+      "timestamp": "01:11:19",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:11:19.008572"
+    },
+    {
+      "timestamp": "01:11:19",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:11:19.008667"
+    },
+    {
+      "timestamp": "01:11:19",
+      "message": "❌ UI dump deneme 1 başarısız (code/loglara bak)",
+      "full_timestamp": "2025-09-05T01:11:19.008756"
+    },
+    {
+      "timestamp": "01:11:20",
+      "message": "🔄 UI dump deneme 2/3 (compressed -> file)...",
+      "full_timestamp": "2025-09-05T01:11:20.209682"
+    },
+    {
+      "timestamp": "01:11:20",
+      "message": "🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:11:20.209830"
+    },
+    {
+      "timestamp": "01:11:20",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:11:20.531068"
+    },
+    {
+      "timestamp": "01:11:20",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:11:20.531178"
+    },
+    {
+      "timestamp": "01:11:20",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:11:20.531242"
+    },
+    {
+      "timestamp": "01:11:20",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:11:20.531286"
+    },
+    {
+      "timestamp": "01:11:20",
+      "message": "❌ UI dump deneme 2 başarısız (code/loglara bak)",
+      "full_timestamp": "2025-09-05T01:11:20.531332"
+    },
+    {
+      "timestamp": "01:11:21",
+      "message": "🔄 UI dump deneme 3/3 (compressed -> file)...",
+      "full_timestamp": "2025-09-05T01:11:21.734605"
+    },
+    {
+      "timestamp": "01:11:21",
+      "message": "🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:11:21.734764"
+    },
+    {
+      "timestamp": "01:11:21",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:11:21.973540"
+    },
+    {
+      "timestamp": "01:11:21",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:11:21.973719"
+    },
+    {
+      "timestamp": "01:11:21",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:11:21.973770"
+    },
+    {
+      "timestamp": "01:11:21",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:11:21.973816"
+    },
+    {
+      "timestamp": "01:11:21",
+      "message": "❌ UI dump deneme 3 başarısız (code/loglara bak)",
+      "full_timestamp": "2025-09-05T01:11:21.973870"
+    },
+    {
+      "timestamp": "01:11:21",
+      "message": "📱 Fallback: uiautomator dump --compressed (default path)",
+      "full_timestamp": "2025-09-05T01:11:21.973914"
+    },
+    {
+      "timestamp": "01:11:21",
+      "message": "🔧 ADB command: shell uiautomator dump --compressed",
+      "full_timestamp": "2025-09-05T01:11:21.973967"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:11:22.200930"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:11:22.201077"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:11:22.201143"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:11:22.201198"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "📡 Fallback: exec-out uiautomator dump --compressed /dev/tty",
+      "full_timestamp": "2025-09-05T01:11:22.201276"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "🔧 ADB command: exec-out uiautomator dump --compressed /dev/tty",
+      "full_timestamp": "2025-09-05T01:11:22.201340"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "📊 ADB result: return_code=0",
+      "full_timestamp": "2025-09-05T01:11:22.439163"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "✅ STDOUT: Killed \n...",
+      "full_timestamp": "2025-09-05T01:11:22.439276"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:11:22.439307"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "🧪 Fallback: uiautomator dump (no --compressed)",
+      "full_timestamp": "2025-09-05T01:11:22.439352"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "🔧 ADB command: shell uiautomator dump /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:11:22.439374"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:11:22.670892"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:11:22.671027"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:11:22.671072"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:11:22.671142"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "❌ Tüm UI dump yöntemleri başarısız",
+      "full_timestamp": "2025-09-05T01:11:22.671215"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "🔄 Alternatif yöntem deneniyor...",
+      "full_timestamp": "2025-09-05T01:11:22.671290"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "🔄 Alternative: Trying different approaches...",
+      "full_timestamp": "2025-09-05T01:11:22.671329"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "📱 Method 1: Trying uiautomator --compressed (default path)...",
+      "full_timestamp": "2025-09-05T01:11:22.671372"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "🔧 ADB command: shell uiautomator dump --compressed",
+      "full_timestamp": "2025-09-05T01:11:22.671409"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:11:22.902903"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:11:22.903071"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:11:22.903119"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:11:22.903176"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "📱 Method 2: Trying service call...",
+      "full_timestamp": "2025-09-05T01:11:22.903242"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "🔧 ADB command: shell service call window 1",
+      "full_timestamp": "2025-09-05T01:11:22.903345"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "📊 ADB result: return_code=0",
+      "full_timestamp": "2025-09-05T01:11:22.963223"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "✅ STDOUT: Result: Parcel(00000000 00000000   '........')\n...",
+      "full_timestamp": "2025-09-05T01:11:22.963348"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:11:22.963388"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "✅ Service call returned data",
+      "full_timestamp": "2025-09-05T01:11:22.963436"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "📊 Extracted: user='', likes='00000000'",
+      "full_timestamp": "2025-09-05T01:11:22.963488"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "🔍 Comparing videos:",
+      "full_timestamp": "2025-09-05T01:11:22.963519"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "   Before: desc='extracted_from_text...', user='', likes='00000000'",
+      "full_timestamp": "2025-09-05T01:11:22.963553"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "   After:  desc='extracted_from_text...', user='', likes='00000000'",
+      "full_timestamp": "2025-09-05T01:11:22.963594"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "⚠️ No video change detected - same content",
+      "full_timestamp": "2025-09-05T01:11:22.963647"
+    },
+    {
+      "timestamp": "01:11:22",
+      "message": "⏭️ Proceeding anyway - may be UI parsing issue",
+      "full_timestamp": "2025-09-05T01:11:22.963714"
+    },
+    {
+      "timestamp": "01:11:25",
+      "message": "📹 Video #2",
+      "full_timestamp": "2025-09-05T01:11:25.978460"
+    },
+    {
+      "timestamp": "01:11:25",
+      "message": "   ⚡ Enerji: 88%",
+      "full_timestamp": "2025-09-05T01:11:25.978589"
+    },
+    {
+      "timestamp": "01:11:25",
+      "message": "🔍 UI dump alınıyor...",
+      "full_timestamp": "2025-09-05T01:11:25.978621"
+    },
+    {
+      "timestamp": "01:11:26",
+      "message": "🔄 UI dump deneme 1/3 (compressed -> file)...",
+      "full_timestamp": "2025-09-05T01:11:26.261050"
+    },
+    {
+      "timestamp": "01:11:26",
+      "message": "🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:11:26.261224"
+    },
+    {
+      "timestamp": "01:11:26",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:11:26.577910"
+    },
+    {
+      "timestamp": "01:11:26",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:11:26.578060"
+    },
+    {
+      "timestamp": "01:11:26",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:11:26.578108"
+    },
+    {
+      "timestamp": "01:11:26",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:11:26.578151"
+    },
+    {
+      "timestamp": "01:11:26",
+      "message": "❌ UI dump deneme 1 başarısız (code/loglara bak)",
+      "full_timestamp": "2025-09-05T01:11:26.578197"
+    },
+    {
+      "timestamp": "01:11:27",
+      "message": "🔄 UI dump deneme 2/3 (compressed -> file)...",
+      "full_timestamp": "2025-09-05T01:11:27.779296"
+    },
+    {
+      "timestamp": "01:11:27",
+      "message": "🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:11:27.779413"
+    },
+    {
+      "timestamp": "01:11:28",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:11:28.016484"
+    },
+    {
+      "timestamp": "01:11:28",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:11:28.016586"
+    },
+    {
+      "timestamp": "01:11:28",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:11:28.016631"
+    },
+    {
+      "timestamp": "01:11:28",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:11:28.016674"
+    },
+    {
+      "timestamp": "01:11:28",
+      "message": "❌ UI dump deneme 2 başarısız (code/loglara bak)",
+      "full_timestamp": "2025-09-05T01:11:28.016719"
+    },
+    {
+      "timestamp": "01:11:29",
+      "message": "🔄 UI dump deneme 3/3 (compressed -> file)...",
+      "full_timestamp": "2025-09-05T01:11:29.217070"
+    },
+    {
+      "timestamp": "01:11:29",
+      "message": "🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:11:29.217183"
+    },
+    {
+      "timestamp": "01:11:29",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:11:29.518102"
+    },
+    {
+      "timestamp": "01:11:29",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:11:29.518263"
+    },
+    {
+      "timestamp": "01:11:29",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:11:29.518306"
+    },
+    {
+      "timestamp": "01:11:29",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:11:29.518345"
+    },
+    {
+      "timestamp": "01:11:29",
+      "message": "❌ UI dump deneme 3 başarısız (code/loglara bak)",
+      "full_timestamp": "2025-09-05T01:11:29.518384"
+    },
+    {
+      "timestamp": "01:11:29",
+      "message": "📱 Fallback: uiautomator dump --compressed (default path)",
+      "full_timestamp": "2025-09-05T01:11:29.518418"
+    },
+    {
+      "timestamp": "01:11:29",
+      "message": "🔧 ADB command: shell uiautomator dump --compressed",
+      "full_timestamp": "2025-09-05T01:11:29.518468"
+    },
+    {
+      "timestamp": "01:11:29",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:11:29.825431"
+    },
+    {
+      "timestamp": "01:11:29",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:11:29.825594"
+    },
+    {
+      "timestamp": "01:11:29",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:11:29.825637"
+    },
+    {
+      "timestamp": "01:11:29",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:11:29.825680"
+    },
+    {
+      "timestamp": "01:11:29",
+      "message": "📡 Fallback: exec-out uiautomator dump --compressed /dev/tty",
+      "full_timestamp": "2025-09-05T01:11:29.825711"
+    },
+    {
+      "timestamp": "01:11:29",
+      "message": "🔧 ADB command: exec-out uiautomator dump --compressed /dev/tty",
+      "full_timestamp": "2025-09-05T01:11:29.825745"
+    },
+    {
+      "timestamp": "01:11:30",
+      "message": "📊 ADB result: return_code=0",
+      "full_timestamp": "2025-09-05T01:11:30.141365"
+    },
+    {
+      "timestamp": "01:11:30",
+      "message": "✅ STDOUT: Killed \n...",
+      "full_timestamp": "2025-09-05T01:11:30.141481"
+    },
+    {
+      "timestamp": "01:11:30",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:11:30.141551"
+    },
+    {
+      "timestamp": "01:11:30",
+      "message": "🧪 Fallback: uiautomator dump (no --compressed)",
+      "full_timestamp": "2025-09-05T01:11:30.141610"
+    },
+    {
+      "timestamp": "01:11:30",
+      "message": "🔧 ADB command: shell uiautomator dump /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:11:30.141677"
+    },
+    {
+      "timestamp": "01:11:30",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:11:30.444342"
+    },
+    {
+      "timestamp": "01:11:30",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:11:30.444507"
+    },
+    {
+      "timestamp": "01:11:30",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:11:30.444598"
+    },
+    {
+      "timestamp": "01:11:30",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:11:30.444633"
+    },
+    {
+      "timestamp": "01:11:30",
+      "message": "❌ Tüm UI dump yöntemleri başarısız",
+      "full_timestamp": "2025-09-05T01:11:30.444653"
+    },
+    {
+      "timestamp": "01:11:30",
+      "message": "🔄 Alternatif yöntem deneniyor...",
+      "full_timestamp": "2025-09-05T01:11:30.444680"
+    },
+    {
+      "timestamp": "01:11:30",
+      "message": "🔄 Alternative: Trying different approaches...",
+      "full_timestamp": "2025-09-05T01:11:30.444724"
+    },
+    {
+      "timestamp": "01:11:30",
+      "message": "📱 Method 1: Trying uiautomator --compressed (default path)...",
+      "full_timestamp": "2025-09-05T01:11:30.444771"
+    },
+    {
+      "timestamp": "01:11:30",
+      "message": "🔧 ADB command: shell uiautomator dump --compressed",
+      "full_timestamp": "2025-09-05T01:11:30.444822"
+    },
+    {
+      "timestamp": "01:11:30",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:11:30.753672"
+    },
+    {
+      "timestamp": "01:11:30",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:11:30.753833"
+    },
+    {
+      "timestamp": "01:11:30",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:11:30.753872"
+    },
+    {
+      "timestamp": "01:11:30",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:11:30.753921"
+    },
+    {
+      "timestamp": "01:11:30",
+      "message": "📱 Method 2: Trying service call...",
+      "full_timestamp": "2025-09-05T01:11:30.753964"
+    },
+    {
+      "timestamp": "01:11:30",
+      "message": "🔧 ADB command: shell service call window 1",
+      "full_timestamp": "2025-09-05T01:11:30.754023"
+    },
+    {
+      "timestamp": "01:11:30",
+      "message": "📊 ADB result: return_code=0",
+      "full_timestamp": "2025-09-05T01:11:30.817411"
+    },
+    {
+      "timestamp": "01:11:30",
+      "message": "✅ STDOUT: Result: Parcel(00000000 00000000   '........')\n...",
+      "full_timestamp": "2025-09-05T01:11:30.817529"
+    },
+    {
+      "timestamp": "01:11:30",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:11:30.817583"
+    },
+    {
+      "timestamp": "01:11:30",
+      "message": "✅ Service call returned data",
+      "full_timestamp": "2025-09-05T01:11:30.817634"
+    },
+    {
+      "timestamp": "01:11:30",
+      "message": "📊 Extracted: user='', likes='00000000'",
+      "full_timestamp": "2025-09-05T01:11:30.817698"
+    },
+    {
+      "timestamp": "01:11:30",
+      "message": "🔍 CompTIA araması: 'extracted_from_text...'",
+      "full_timestamp": "2025-09-05T01:11:30.817777"
+    },
+    {
+      "timestamp": "01:11:30",
+      "message": "❌ CompTIA keyword bulunamadı",
+      "full_timestamp": "2025-09-05T01:11:30.817827"
+    },
+    {
+      "timestamp": "01:11:30",
+      "message": "   ⏱️ 10.0 saniye izlenecek...",
+      "full_timestamp": "2025-09-05T01:11:30.817936"
+    },
+    {
+      "timestamp": "01:11:36",
+      "message": "   ❤️ Buton beğeni",
+      "full_timestamp": "2025-09-05T01:11:36.818648"
+    },
+    {
+      "timestamp": "01:11:36",
+      "message": "📸 Screenshot alınıyor: liked_video_002_button.png",
+      "full_timestamp": "2025-09-05T01:11:36.917154"
+    },
+    {
+      "timestamp": "01:11:36",
+      "message": "📱 ADB screencap komutu çalıştırılıyor...",
+      "full_timestamp": "2025-09-05T01:11:36.917307"
+    },
+    {
+      "timestamp": "01:11:37",
+      "message": "✅ ADB screencap başarılı",
+      "full_timestamp": "2025-09-05T01:11:37.865308"
+    },
+    {
+      "timestamp": "01:11:38",
+      "message": "💾 Dosya çekiliyor: /sdcard/temp_screenshot.png -> sessions/comptia_bot_20250905_011049/screenshots/liked_video_002_button.png",
+      "full_timestamp": "2025-09-05T01:11:38.365642"
+    },
+    {
+      "timestamp": "01:11:38",
+      "message": "✅ ADB pull başarılı",
+      "full_timestamp": "2025-09-05T01:11:38.453577"
+    },
+    {
+      "timestamp": "01:11:38",
+      "message": "✅ Screenshot kaydedildi: liked_video_002_button.png (1456853 bytes)",
+      "full_timestamp": "2025-09-05T01:11:38.453740"
+    },
+    {
+      "timestamp": "01:11:38",
+      "message": "📄 Video bilgileri kaydedildi: 1 total",
+      "full_timestamp": "2025-09-05T01:11:38.526102"
+    },
+    {
+      "timestamp": "01:11:42",
+      "message": "   ⬆️ Sonraki video...",
+      "full_timestamp": "2025-09-05T01:11:42.442850"
+    },
+    {
+      "timestamp": "01:11:42",
+      "message": "🏃 Swipe distance: 454px, duration: 164ms",
+      "full_timestamp": "2025-09-05T01:11:42.443168"
+    },
+    {
+      "timestamp": "01:11:42",
+      "message": "🔍 UI dump alınıyor...",
+      "full_timestamp": "2025-09-05T01:11:42.443231"
+    },
+    {
+      "timestamp": "01:11:42",
+      "message": "🔄 UI dump deneme 1/3 (compressed -> file)...",
+      "full_timestamp": "2025-09-05T01:11:42.730049"
+    },
+    {
+      "timestamp": "01:11:42",
+      "message": "🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:11:42.730179"
+    },
+    {
+      "timestamp": "01:11:43",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:11:43.027453"
+    },
+    {
+      "timestamp": "01:11:43",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:11:43.027573"
+    },
+    {
+      "timestamp": "01:11:43",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:11:43.027623"
+    },
+    {
+      "timestamp": "01:11:43",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:11:43.027679"
+    },
+    {
+      "timestamp": "01:11:43",
+      "message": "❌ UI dump deneme 1 başarısız (code/loglara bak)",
+      "full_timestamp": "2025-09-05T01:11:43.027723"
+    },
+    {
+      "timestamp": "01:11:44",
+      "message": "🔄 UI dump deneme 2/3 (compressed -> file)...",
+      "full_timestamp": "2025-09-05T01:11:44.228079"
+    },
+    {
+      "timestamp": "01:11:44",
+      "message": "🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:11:44.228266"
+    },
+    {
+      "timestamp": "01:11:44",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:11:44.539687"
+    },
+    {
+      "timestamp": "01:11:44",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:11:44.539818"
+    },
+    {
+      "timestamp": "01:11:44",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:11:44.539862"
+    },
+    {
+      "timestamp": "01:11:44",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:11:44.539906"
+    },
+    {
+      "timestamp": "01:11:44",
+      "message": "❌ UI dump deneme 2 başarısız (code/loglara bak)",
+      "full_timestamp": "2025-09-05T01:11:44.539951"
+    },
+    {
+      "timestamp": "01:11:45",
+      "message": "\n==================================================",
+      "full_timestamp": "2025-09-05T01:11:45.311466"
+    },
+    {
+      "timestamp": "01:11:45",
+      "message": "📊 OTURUM RAPORU",
+      "full_timestamp": "2025-09-05T01:11:45.311601"
+    },
+    {
+      "timestamp": "01:11:45",
+      "message": "==================================================",
+      "full_timestamp": "2025-09-05T01:11:45.311658"
+    },
+    {
+      "timestamp": "01:11:45",
+      "message": "⏱️ Toplam Süre: 0.9 dakika",
+      "full_timestamp": "2025-09-05T01:11:45.311708"
+    },
+    {
+      "timestamp": "01:11:45",
+      "message": "📹 İzlenen Video: 2",
+      "full_timestamp": "2025-09-05T01:11:45.311749"
+    },
+    {
+      "timestamp": "01:11:45",
+      "message": "🎯 CompTIA Video: 0 (0%)",
+      "full_timestamp": "2025-09-05T01:11:45.311794"
+    },
+    {
+      "timestamp": "01:11:45",
+      "message": "❤️ Beğeni: 1",
+      "full_timestamp": "2025-09-05T01:11:45.311834"
+    },
+    {
+      "timestamp": "01:11:45",
+      "message": "💾 Kaydedilen: 0",
+      "full_timestamp": "2025-09-05T01:11:45.311890"
+    },
+    {
+      "timestamp": "01:11:45",
+      "message": "💬 Yorum Açılan: 0",
+      "full_timestamp": "2025-09-05T01:11:45.311944"
+    },
+    {
+      "timestamp": "01:11:45",
+      "message": "👤 Profil Ziyareti: 0",
+      "full_timestamp": "2025-09-05T01:11:45.311985"
+    },
+    {
+      "timestamp": "01:11:45",
+      "message": "⏰ Ortalama İzleme: 7.7 sn/video",
+      "full_timestamp": "2025-09-05T01:11:45.312029"
+    },
+    {
+      "timestamp": "01:11:45",
+      "message": "\n📁 Session dosyaları: sessions/comptia_bot_20250905_011049",
+      "full_timestamp": "2025-09-05T01:11:45.312074"
+    },
+    {
+      "timestamp": "01:11:45",
+      "message": "📸 Screenshots: 1 adet",
+      "full_timestamp": "2025-09-05T01:11:45.312154"
+    },
+    {
+      "timestamp": "01:11:45",
+      "message": "\n🎉 Bot başarıyla tamamlandı!",
+      "full_timestamp": "2025-09-05T01:11:45.312198"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+[00:39:58] 🚀 Session started: 20250905_003958
+[00:39:58] 📁 Folder: sessions/comptia_bot_20250905_003958
+[00:39:58] 👤 User Profile:
+[00:39:58]    • Dominant hand: right
+[00:39:58]    • Finger size factor: 1.18
+[00:39:58]    • Precision level: 0.80
+[00:39:58]    • Swipe style: straight
+[00:39:58]    • Speed preference: 1.23
+[00:39:58] 🚀 CompTIA TikTok Bot Başlatılıyor
+[00:39:58] ==================================================
+[00:39:58] ⏰ Süre: 2 dakika
+[00:39:58] 🎯 Hedef: CompTIA içerikleri
+[00:39:58] ==================================================
+[00:39:58] 📱 TikTok açılıyor...
+[00:40:03] 📹 Video #1
+[00:40:03]    ⚡ Enerji: 98%
+[00:40:04]    ⏱️ 16.1 saniye izlenecek...
+[00:40:16]    ❤️ Çift tıklama beğeni
+[00:40:16] 📸 Screenshot alınıyor: liked_video_001_double_tap.png
+[00:40:16] 📱 ADB screencap komutu çalıştırılıyor...
+[00:40:18] ✅ ADB screencap başarılı
+[00:40:19] 💾 Dosya çekiliyor: /sdcard/temp_screenshot.png -> sessions/comptia_bot_20250905_003958/screenshots/liked_video_001_double_tap.png
+[00:40:19] ✅ ADB pull başarılı
+[00:40:19] ✅ Screenshot kaydedildi: liked_video_001_double_tap.png (1972497 bytes)
+[00:40:19] 📄 Video bilgileri kaydedildi: 1 total
+[00:40:22]    ⬆️ Sonraki video...
+[00:40:22] 🏃 Swipe distance: 311px, duration: 123ms
+[00:40:23] ✅ Swipe executed: (944,1625) -> (994,1318) in 99ms
+[00:40:26] 🔍 Comparing videos:
+[00:40:26]    Before: desc='...', user='', likes=''
+[00:40:26]    After:  desc='...', user='', likes=''
+[00:40:26] 📹 No UI data found - assuming video changed
+[00:40:27] 📹 Video #2
+[00:40:27]    ⚡ Enerji: 90%
+[00:40:28]    ⏱️ 16.8 saniye izlenecek...
+[00:40:45]    ⬆️ Sonraki video...
+[00:40:45] 🏃 Swipe distance: 424px, duration: 163ms
+[00:40:47] ✅ Swipe executed: (833,1715) -> (908,1297) in 134ms
+[00:40:49] 🔍 Comparing videos:
+[00:40:49]    Before: desc='...', user='', likes=''
+[00:40:49]    After:  desc='...', user='', likes=''
+[00:40:49] 📹 No UI data found - assuming video changed
+[00:40:51] 📹 Video #3
+[00:40:51]    ⚡ Enerji: 82%
+[00:40:52]    ⏱️ 11.9 saniye izlenecek...
+[00:41:00]    ❤️ Buton beğeni
+[00:41:00] 📸 Screenshot alınıyor: liked_video_003_button.png
+[00:41:00] 📱 ADB screencap komutu çalıştırılıyor...
+[00:41:02] ✅ ADB screencap başarılı
+[00:41:02] 💾 Dosya çekiliyor: /sdcard/temp_screenshot.png -> sessions/comptia_bot_20250905_003958/screenshots/liked_video_003_button.png
+[00:41:02] ✅ ADB pull başarılı
+[00:41:02] ✅ Screenshot kaydedildi: liked_video_003_button.png (1928538 bytes)
+[00:41:02] 📄 Video bilgileri kaydedildi: 2 total
+[00:41:05]    ⬆️ Sonraki video...
+[00:41:05] 🏃 Swipe distance: 518px, duration: 152ms
+[00:41:06] ✅ Swipe executed: (721,1815) -> (1020,1391) in 127ms
+[00:41:09] 🔍 Comparing videos:
+[00:41:09]    Before: desc='...', user='', likes=''
+[00:41:09]    After:  desc='...', user='', likes=''
+[00:41:09] 📹 No UI data found - assuming video changed
+[00:41:10] 📹 Video #4
+[00:41:10]    ⚡ Enerji: 76%
+[00:41:11]    ⏱️ 6.3 saniye izlenecek...
+[00:41:17]    ⬆️ Sonraki video...
+[00:41:17] 🏃 Swipe distance: 732px, duration: 162ms
+[00:41:19] ✅ Swipe executed: (756,1687) -> (1030,1008) in 137ms
+[00:41:21] 🔍 Comparing videos:
+[00:41:21]    Before: desc='...', user='', likes=''
+[00:41:21]    After:  desc='...', user='', likes=''
+[00:41:21] 📹 No UI data found - assuming video changed
+[00:41:23] 📹 Video #5
+[00:41:23]    ⚡ Enerji: 72%
+[00:41:24]    ⏱️ 12.1 saniye izlenecek...
+[00:41:28]    ❤️ Çift tıklama beğeni
+[00:41:28] 📸 Screenshot alınıyor: liked_video_005_double_tap.png
+[00:41:28] 📱 ADB screencap komutu çalıştırılıyor...
+[00:41:29] ✅ ADB screencap başarılı
+[00:41:30] 💾 Dosya çekiliyor: /sdcard/temp_screenshot.png -> sessions/comptia_bot_20250905_003958/screenshots/liked_video_005_double_tap.png
+[00:41:30] ✅ ADB pull başarılı
+[00:41:30] ✅ Screenshot kaydedildi: liked_video_005_double_tap.png (1942798 bytes)
+[00:41:30] 📄 Video bilgileri kaydedildi: 3 total
+[00:41:33]    💬 Yorumlar açılıyor
+[00:41:39]    ⬆️ Sonraki video...
+[00:41:39] 🏃 Swipe distance: 400px, duration: 232ms
+[00:41:40] ✅ Swipe executed: (804,1761) -> (1030,1430) in 198ms
+[00:41:43] 🔍 Comparing videos:
+[00:41:43]    Before: desc='...', user='', likes=''
+[00:41:43]    After:  desc='...', user='', likes=''
+[00:41:43] 📹 No UI data found - assuming video changed
+[00:41:45] 📹 Video #6
+[00:41:45]    ⚡ Enerji: 64%
+[00:41:46]    ⏱️ 7.9 saniye izlenecek...
+[00:41:54] 📹 Video #7
+[00:41:54]    ⚡ Enerji: 61%
+[00:41:55]    ⏱️ 3.4 saniye izlenecek...
+[00:41:58]    📱 Kısa mola...
+[00:42:03] 
+==================================================
+[00:42:03] 📊 OTURUM RAPORU
+[00:42:03] ==================================================
+[00:42:03] ⏱️ Toplam Süre: 2.1 dakika
+[00:42:03] 📹 İzlenen Video: 7
+[00:42:03] 🎯 CompTIA Video: 0 (0%)
+[00:42:03] ❤️ Beğeni: 3
+[00:42:03] 💾 Kaydedilen: 0
+[00:42:03] 💬 Yorum Açılan: 1
+[00:42:03] 👤 Profil Ziyareti: 0
+[00:42:03] ⏰ Ortalama İzleme: 10.6 sn/video
+[00:42:03] 
+📁 Session dosyaları: sessions/comptia_bot_20250905_003958
+[00:42:03] 📸 Screenshots: 3 adet
+[00:42:03] 
+🎉 Bot başarıyla tamamlandı!
+[00:42:03] 📄 Session raporu kaydedildi: session_report.json

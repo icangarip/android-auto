@@ -1,0 +1,66 @@
+Session started 20250906_121431
+Session folder: sessions/locator_20250906_121431
+📁 Session klasörü hazır
+👤 Switching account to: certmaster8
+⏳ Waiting for account switch (15s)...
+✅ Account switched to: certmaster8
+📸 Screenshot kaydedildi: sessions/locator_20250906_121431/screenshots/after_switch_certmaster8.png
+🏠 Returned to Home tab
+
+📹 Video #1
+📝 Description: 🚫 Why You Shouldn’t Live in Texas | The Truth About Texas Life…
+🏷️ Title: kaanaltas
+🎯 Decision: skip
+
+📹 Video #2
+📝 Description: What is DNS⁉️…more
+🏷️ Title: THESWENIUSONE
+🎯 Decision: skip
+
+📹 Video #3
+📝 Description: Working from home be like:
+🏷️ Title: theswetlife
+🎯 Decision: skip
+
+📹 Video #4
+📝 Description: DIY on a 2017-2022 Honda Civic! These same steps apply to most vehicle…more
+🏷️ Title: ldawgsautocare
+🎯 Decision: skip
+
+📹 Video #5
+📝 Description: gold tier loot😭😭 #fyp #acewitd…more
+🏷️ Title: ACE♠️ | Govtech 💻
+🎯 Decision: skip
+
+📹 Video #6
+📝 Description: Mario Karting Da Lat.…more
+🏷️ Title: PawStar
+🎯 Decision: LIKE (reason: random 30%)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_121431/screenshots/liked_video_006.png
+
+📹 Video #7
+📝 Description: Aurora Police Traffic Stop part 1. Full clip on Aurora Illinois Police Departmen...
+🏷️ Title: fnaakeemjanieka
+🎯 Decision: skip
+
+📹 Video #8
+📝 Description: The Alhambra Police Department says a woman used hand signals to disc…more
+🏷️ Title: cbsnews
+🎯 Decision: LIKE (reason: random 30%)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_121431/screenshots/liked_video_008.png
+
+📹 Video #9
+📝 Description: 🎯Study Smarter, Not Harder for Network+ …more
+🏷️ Title: CertAI: Comptia Network+
+🎯 Decision: LIKE (reason: keywords: network+, comptia)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_121431/screenshots/liked_video_009.png
+
+✅ Automation finished!
+📊 Duration: ~2 min | Videos: 9 | Likes: 3
+💾 Rapor kaydedildi: session_report.json

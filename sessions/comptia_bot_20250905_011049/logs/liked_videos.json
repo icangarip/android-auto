@@ -1,0 +1,18 @@
+{
+  "liked_videos": [
+    {
+      "screenshot": "liked_video_002_button.png",
+      "timestamp": "2025-09-05T01:11:38.525530",
+      "video_number": 2,
+      "is_comptia": false,
+      "found_keywords": [],
+      "like_method": "button",
+      "video_info": {
+        "username": "",
+        "description": "extracted_from_text",
+        "likes": "00000000",
+        "music": "unknown"
+      }
+    }
+  ]
+}

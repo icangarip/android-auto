@@ -1,0 +1,316 @@
+{
+  "session_info": {
+    "timestamp": "2025-09-05T00:32:52.674257",
+    "duration_minutes": 0.9,
+    "folder": "sessions/comptia_bot_20250905_003200"
+  },
+  "user_profile": {
+    "dominant_hand": "left",
+    "finger_size": 0.9964037725838589,
+    "precision_level": 0.9388243154870511,
+    "swipe_style": "straight",
+    "speed_preference": 1.2265352122725388
+  },
+  "interaction_patterns": {
+    "total_interactions": 4,
+    "touch_history_samples": [
+      [
+        763,
+        1651
+      ],
+      [
+        762,
+        1631
+      ]
+    ],
+    "swipe_patterns_samples": [
+      {
+        "start_offset_x": -55,
+        "start_offset_y": -6,
+        "end_offset_x": 36,
+        "end_offset_y": 19,
+        "duration": 88,
+        "success": true,
+        "pattern_index": 1
+      },
+      {
+        "start_offset_x": -26,
+        "start_offset_y": 24,
+        "end_offset_x": -24,
+        "end_offset_y": 35,
+        "duration": 163,
+        "success": true,
+        "pattern_index": 3
+      }
+    ],
+    "final_energy_level": 0.83
+  },
+  "statistics": {
+    "videos_watched": 3,
+    "comptia_videos": 0,
+    "comptia_percentage": 0.0,
+    "likes_given": 1,
+    "videos_saved": 0,
+    "comments_opened": 0,
+    "profiles_visited": 0,
+    "total_watch_time": 32.3,
+    "average_watch_time": 10.8
+  },
+  "logs": [
+    {
+      "timestamp": "00:32:00",
+      "message": "🚀 Session started: 20250905_003200",
+      "full_timestamp": "2025-09-05T00:32:00.348606"
+    },
+    {
+      "timestamp": "00:32:00",
+      "message": "📁 Folder: sessions/comptia_bot_20250905_003200",
+      "full_timestamp": "2025-09-05T00:32:00.348781"
+    },
+    {
+      "timestamp": "00:32:00",
+      "message": "👤 User Profile:",
+      "full_timestamp": "2025-09-05T00:32:00.348863"
+    },
+    {
+      "timestamp": "00:32:00",
+      "message": "   • Dominant hand: left",
+      "full_timestamp": "2025-09-05T00:32:00.348918"
+    },
+    {
+      "timestamp": "00:32:00",
+      "message": "   • Finger size factor: 1.00",
+      "full_timestamp": "2025-09-05T00:32:00.348977"
+    },
+    {
+      "timestamp": "00:32:00",
+      "message": "   • Precision level: 0.94",
+      "full_timestamp": "2025-09-05T00:32:00.349017"
+    },
+    {
+      "timestamp": "00:32:00",
+      "message": "   • Swipe style: straight",
+      "full_timestamp": "2025-09-05T00:32:00.349043"
+    },
+    {
+      "timestamp": "00:32:00",
+      "message": "   • Speed preference: 1.23",
+      "full_timestamp": "2025-09-05T00:32:00.349100"
+    },
+    {
+      "timestamp": "00:32:00",
+      "message": "🚀 CompTIA TikTok Bot Başlatılıyor",
+      "full_timestamp": "2025-09-05T00:32:00.349154"
+    },
+    {
+      "timestamp": "00:32:00",
+      "message": "==================================================",
+      "full_timestamp": "2025-09-05T00:32:00.349208"
+    },
+    {
+      "timestamp": "00:32:00",
+      "message": "⏰ Süre: 2 dakika",
+      "full_timestamp": "2025-09-05T00:32:00.349305"
+    },
+    {
+      "timestamp": "00:32:00",
+      "message": "🎯 Hedef: CompTIA içerikleri",
+      "full_timestamp": "2025-09-05T00:32:00.349351"
+    },
+    {
+      "timestamp": "00:32:00",
+      "message": "==================================================",
+      "full_timestamp": "2025-09-05T00:32:00.349369"
+    },
+    {
+      "timestamp": "00:32:00",
+      "message": "📱 TikTok açılıyor...",
+      "full_timestamp": "2025-09-05T00:32:00.349420"
+    },
+    {
+      "timestamp": "00:32:05",
+      "message": "📹 Video #1",
+      "full_timestamp": "2025-09-05T00:32:05.820622"
+    },
+    {
+      "timestamp": "00:32:05",
+      "message": "   ⚡ Enerji: 98%",
+      "full_timestamp": "2025-09-05T00:32:05.820750"
+    },
+    {
+      "timestamp": "00:32:06",
+      "message": "   ⏱️ 15.9 saniye izlenecek...",
+      "full_timestamp": "2025-09-05T00:32:06.565682"
+    },
+    {
+      "timestamp": "00:32:12",
+      "message": "   ❤️ Çift tıklama beğeni",
+      "full_timestamp": "2025-09-05T00:32:12.566900"
+    },
+    {
+      "timestamp": "00:32:14",
+      "message": "📄 Video bilgileri kaydedildi: 1 total",
+      "full_timestamp": "2025-09-05T00:32:14.385791"
+    },
+    {
+      "timestamp": "00:32:22",
+      "message": "   ⬆️ Sonraki video...",
+      "full_timestamp": "2025-09-05T00:32:22.459023"
+    },
+    {
+      "timestamp": "00:32:22",
+      "message": "🏃 Swipe distance: 376px, duration: 109ms",
+      "full_timestamp": "2025-09-05T00:32:22.459236"
+    },
+    {
+      "timestamp": "00:32:23",
+      "message": "✅ Swipe executed: (745,1694) -> (936,1369) in 88ms",
+      "full_timestamp": "2025-09-05T00:32:23.334335"
+    },
+    {
+      "timestamp": "00:32:24",
+      "message": "⚠️ No video change detected - same content",
+      "full_timestamp": "2025-09-05T00:32:24.836602"
+    },
+    {
+      "timestamp": "00:32:24",
+      "message": "⚠️ Video didn't change - trying faster swipe",
+      "full_timestamp": "2025-09-05T00:32:24.836803"
+    },
+    {
+      "timestamp": "00:32:26",
+      "message": "⚠️ No video change detected - same content",
+      "full_timestamp": "2025-09-05T00:32:26.512111"
+    },
+    {
+      "timestamp": "00:32:26",
+      "message": "📹 Video #2",
+      "full_timestamp": "2025-09-05T00:32:26.991601"
+    },
+    {
+      "timestamp": "00:32:26",
+      "message": "   ⚡ Enerji: 91%",
+      "full_timestamp": "2025-09-05T00:32:26.991705"
+    },
+    {
+      "timestamp": "00:32:27",
+      "message": "   ⏱️ 16.4 saniye izlenecek...",
+      "full_timestamp": "2025-09-05T00:32:27.720899"
+    },
+    {
+      "timestamp": "00:32:44",
+      "message": "   ⬆️ Sonraki video...",
+      "full_timestamp": "2025-09-05T00:32:44.123605"
+    },
+    {
+      "timestamp": "00:32:44",
+      "message": "🏃 Swipe distance: 773px, duration: 198ms",
+      "full_timestamp": "2025-09-05T00:32:44.123819"
+    },
+    {
+      "timestamp": "00:32:45",
+      "message": "✅ Swipe executed: (674,1724) -> (1026,1035) in 163ms",
+      "full_timestamp": "2025-09-05T00:32:45.177692"
+    },
+    {
+      "timestamp": "00:32:46",
+      "message": "⚠️ No video change detected - same content",
+      "full_timestamp": "2025-09-05T00:32:46.652280"
+    },
+    {
+      "timestamp": "00:32:46",
+      "message": "⚠️ Video didn't change - trying faster swipe",
+      "full_timestamp": "2025-09-05T00:32:46.652416"
+    },
+    {
+      "timestamp": "00:32:48",
+      "message": "⚠️ No video change detected - same content",
+      "full_timestamp": "2025-09-05T00:32:48.278776"
+    },
+    {
+      "timestamp": "00:32:49",
+      "message": "📹 Video #3",
+      "full_timestamp": "2025-09-05T00:32:49.925941"
+    },
+    {
+      "timestamp": "00:32:49",
+      "message": "   ⚡ Enerji: 83%",
+      "full_timestamp": "2025-09-05T00:32:49.926069"
+    },
+    {
+      "timestamp": "00:32:50",
+      "message": "   ⏱️ 16.2 saniye izlenecek...",
+      "full_timestamp": "2025-09-05T00:32:50.674382"
+    },
+    {
+      "timestamp": "00:32:52",
+      "message": "\n==================================================",
+      "full_timestamp": "2025-09-05T00:32:52.673478"
+    },
+    {
+      "timestamp": "00:32:52",
+      "message": "📊 OTURUM RAPORU",
+      "full_timestamp": "2025-09-05T00:32:52.673622"
+    },
+    {
+      "timestamp": "00:32:52",
+      "message": "==================================================",
+      "full_timestamp": "2025-09-05T00:32:52.673665"
+    },
+    {
+      "timestamp": "00:32:52",
+      "message": "⏱️ Toplam Süre: 0.9 dakika",
+      "full_timestamp": "2025-09-05T00:32:52.673734"
+    },
+    {
+      "timestamp": "00:32:52",
+      "message": "📹 İzlenen Video: 3",
+      "full_timestamp": "2025-09-05T00:32:52.673777"
+    },
+    {
+      "timestamp": "00:32:52",
+      "message": "🎯 CompTIA Video: 0 (0%)",
+      "full_timestamp": "2025-09-05T00:32:52.673834"
+    },
+    {
+      "timestamp": "00:32:52",
+      "message": "❤️ Beğeni: 1",
+      "full_timestamp": "2025-09-05T00:32:52.673879"
+    },
+    {
+      "timestamp": "00:32:52",
+      "message": "💾 Kaydedilen: 0",
+      "full_timestamp": "2025-09-05T00:32:52.673921"
+    },
+    {
+      "timestamp": "00:32:52",
+      "message": "💬 Yorum Açılan: 0",
+      "full_timestamp": "2025-09-05T00:32:52.673962"
+    },
+    {
+      "timestamp": "00:32:52",
+      "message": "👤 Profil Ziyareti: 0",
+      "full_timestamp": "2025-09-05T00:32:52.674003"
+    },
+    {
+      "timestamp": "00:32:52",
+      "message": "⏰ Ortalama İzleme: 10.8 sn/video",
+      "full_timestamp": "2025-09-05T00:32:52.674046"
+    },
+    {
+      "timestamp": "00:32:52",
+      "message": "\n📁 Session dosyaları: sessions/comptia_bot_20250905_003200",
+      "full_timestamp": "2025-09-05T00:32:52.674108"
+    },
+    {
+      "timestamp": "00:32:52",
+      "message": "📸 Screenshots: 1 adet",
+      "full_timestamp": "2025-09-05T00:32:52.674162"
+    },
+    {
+      "timestamp": "00:32:52",
+      "message": "\n🎉 Bot başarıyla tamamlandı!",
+      "full_timestamp": "2025-09-05T00:32:52.674235"
+    }
+  ]
+}

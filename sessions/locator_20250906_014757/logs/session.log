@@ -1,0 +1,49 @@
+Session started 20250906_014757
+Session folder: sessions/locator_20250906_014757
+📁 Session klasörü hazır
+
+📹 Video #1
+📝 Description: 💼 Whether you’re just starting or preparing for the final exam, our …more
+🏷️ Title: CertAI: Comptia Network+
+🎯 Decision: LIKE (reason: keywords: exam, comptia, network+)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_014757/screenshots/liked_video_001.png
+
+📹 Video #2
+📝 Description: Would you sleep here? 📍Emily Morgan Hotel - San Antonio, TX #haunte…more
+🏷️ Title: Danielle | Paranormal
+🎯 Decision: skip
+
+📹 Video #3
+📝 Description: Trivia Tuesday is here! Can you crack today’s question? #CompTIA #C…more
+🏷️ Title: CompTIA A+
+🎯 Decision: LIKE (reason: keywords: comptia, a+)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_014757/screenshots/liked_video_003.png
+
+📹 Video #4
+📝 Description: Marching on beat at Yellowstone …more
+🏷️ Title: Sarah Ruffolo
+🎯 Decision: LIKE (reason: random 30%)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_014757/screenshots/liked_video_004.png
+
+📹 Video #5
+📝 Description: #Xyzbca #viral
+🏷️ Title: ethan
+🎯 Decision: skip
+
+📹 Video #6
+📝 Description: “Great things are done by a series of small things brought together”-Vi…more
+🏷️ Title: Wendy✨
+🎯 Decision: LIKE (reason: random 30%)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_014757/screenshots/liked_video_006.png
+
+✅ Automation finished!
+📊 Duration: ~2 min | Videos: 6 | Likes: 4
+💾 Rapor kaydedildi: session_report.json

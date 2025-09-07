@@ -1,0 +1,20 @@
+{
+  "liked_videos": [
+    {
+      "screenshot": "liked_video_001_double_tap.png",
+      "timestamp": "2025-09-05T00:59:12.552244",
+      "video_number": 1,
+      "is_comptia": true,
+      "found_keywords": [
+        "tutorial"
+      ],
+      "like_method": "double_tap",
+      "video_info": {
+        "username": "@techguru",
+        "description": "tech tutorial for beginners",
+        "likes": "2.1K",
+        "music": "original sound"
+      }
+    }
+  ]
+}

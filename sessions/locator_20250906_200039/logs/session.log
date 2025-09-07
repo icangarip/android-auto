@@ -1,0 +1,46 @@
+Session started 20250906_200039
+Session folder: sessions/locator_20250906_200039
+📁 Session klasörü hazır
+
+📹 Video #1
+📝 Description: 💡 Pass Network+ Easier Than Ever  Practice real exam-style question…more
+🏷️ Title: CertAI: Comptia Network+
+🎯 Decision: LIKE (reason: keywords: network+, exam, comptia)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_200039/screenshots/liked_video_001.png
+
+📹 Video #2
+📝 Description: Don’t Skip This Video. This Might be the most unforgettable moment of m…more
+🏷️ Title: Oddly Satisfying
+🎯 Decision: skip
+
+📹 Video #3
+📝 Description: #learnlanguages #learnspanishf…more
+🏷️ Title: Donna Inglés
+🎯 Decision: LIKE (reason: random 30%)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_200039/screenshots/liked_video_003.png
+
+📹 Video #4
+📝 Description: 🖥️ “Can you pass this Network+ question?”📲 Check out the link i…more
+🏷️ Title: CertAI: Comptia Network+
+🎯 Decision: LIKE (reason: keywords: network+, comptia)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_200039/screenshots/liked_video_004.png
+
+📹 Video #5
+📝 Description: Meta CEO Mark Zuckerberg was caught on a hot mic admitting to Donald …more
+🏷️ Title: Daily Mail
+🎯 Decision: skip
+
+📹 Video #6
+📝 Description: #cops #policeofficer #foryou
+🏷️ Title: Cops News
+🎯 Decision: skip
+
+✅ Automation finished!
+📊 Duration: ~2 min | Videos: 6 | Likes: 3
+💾 Rapor kaydedildi: session_report.json

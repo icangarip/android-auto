@@ -1,0 +1,60 @@
+Session started 20250906_215402
+Session folder: sessions/locator_20250906_215402
+📁 Session klasörü hazır
+
+📹 Video #1
+📝 Description: 26 cables, 4 guys, and 2 pulleys for 1 pull.  Knocked out the data cablin…more
+🏷️ Title: TSS USA
+🎯 Decision: LIKE (reason: random 30%)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_215402/screenshots/liked_video_001.png
+
+📹 Video #2
+📝 Description: 💻 Practice like it’s exam day! 🔥 Build confidence with our app’s daily N…more
+🏷️ Title: CertAI: Comptia Network+
+🎯 Decision: LIKE (reason: keywords: exam, comptia, network+)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_215402/screenshots/liked_video_002.png
+
+📹 Video #3
+📝 Description: Work hard #it #datacenter #fyp…more
+🏷️ Title: Dan
+🎯 Decision: LIKE (reason: random 30%)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_215402/screenshots/liked_video_003.png
+
+📹 Video #4
+📝 Description: Lost in Alaska - How to NOT Freeze to Death #alaska #survivalskills #s…more
+🏷️ Title: ZE📢
+🎯 Decision: LIKE (reason: random 30%)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_215402/screenshots/liked_video_004.png
+
+📹 Video #5
+📝 Description: Shutting down my computer after a long week is the best part about my fr…more
+🏷️ Title: MJ Cowling
+🎯 Decision: LIKE (reason: random 30%)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_215402/screenshots/liked_video_005.png
+
+📹 Video #6
+📝 Description: Using Lists in Python
+🏷️ Title: MyMindsMadness
+🎯 Decision: skip
+
+📹 Video #7
+📝 Description: 🌍 Future IT pros, are you ready? CertAI A+ app helps you prep an…more
+🏷️ Title: CompTIA A+
+🎯 Decision: LIKE (reason: keywords: a+, comptia)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_215402/screenshots/liked_video_007.png
+
+✅ Automation finished!
+📊 Duration: ~2 min | Videos: 7 | Likes: 6
+💾 Rapor kaydedildi: session_report.json

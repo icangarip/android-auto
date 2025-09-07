@@ -1,0 +1,105 @@
+[00:58:52] 🚀 Session started: 20250905_005852
+[00:58:52] 📁 Folder: sessions/comptia_bot_20250905_005852
+[00:58:52] 👤 User Profile:
+[00:58:52]    • Dominant hand: left
+[00:58:52]    • Finger size factor: 1.20
+[00:58:52]    • Precision level: 0.74
+[00:58:52]    • Swipe style: lazy
+[00:58:52]    • Speed preference: 0.81
+[00:58:52] 🚀 CompTIA TikTok Bot Başlatılıyor
+[00:58:52] ==================================================
+[00:58:52] ⏰ Süre: 2 dakika
+[00:58:52] 🎯 Hedef: CompTIA içerikleri
+[00:58:52] ==================================================
+[00:58:52] 📱 TikTok açılıyor...
+[00:58:58] 📹 Video #1
+[00:58:58]    ⚡ Enerji: 98%
+[00:58:58] 🔍 UI dump alınıyor...
+[00:58:58] 🔄 UI dump deneme 1/3...
+[00:58:58] ❌ UI dump deneme 1 başarısız
+[00:58:59] 🔄 UI dump deneme 2/3...
+[00:58:59] ❌ UI dump deneme 2 başarısız
+[00:59:00] 🔄 UI dump deneme 3/3...
+[00:59:01] ❌ UI dump deneme 3 başarısız
+[00:59:02] ❌ Tüm UI dump denemeleri başarısız - fallback kullanılıyor
+[00:59:02] 🔄 Fallback: Random video data simulation...
+[00:59:02] ✅ Fallback data generated: 'Tech tutorial for beginners...'
+[00:59:02] 🔍 CompTIA araması: 'tech tutorial for beginners @techguru...'
+[00:59:02] 🎯 CompTIA keywords bulundu: tutorial
+[00:59:02]    👤 @@techguru
+[00:59:02]    🎯 CompTIA içeriği bulundu! Keywords: tutorial
+[00:59:02]    ⏱️ 23.4 saniye izlenecek...
+[00:59:10]    ❤️ Çift tıklama beğeni
+[00:59:10] 📸 Screenshot alınıyor: liked_video_001_double_tap.png
+[00:59:10] 📱 ADB screencap komutu çalıştırılıyor...
+[00:59:11] ✅ ADB screencap başarılı
+[00:59:12] 💾 Dosya çekiliyor: /sdcard/temp_screenshot.png -> sessions/comptia_bot_20250905_005852/screenshots/liked_video_001_double_tap.png
+[00:59:12] ✅ ADB pull başarılı
+[00:59:12] ✅ Screenshot kaydedildi: liked_video_001_double_tap.png (2673404 bytes)
+[00:59:12] 📄 Video bilgileri kaydedildi: 1 total
+[00:59:18]    💾 Video kaydediliyor
+[00:59:25]    ⬆️ Sonraki video...
+[00:59:25] 🏃 Swipe distance: 306px, duration: 88ms
+[00:59:25] 🔍 UI dump alınıyor...
+[00:59:25] 🔄 UI dump deneme 1/3...
+[00:59:26] ❌ UI dump deneme 1 başarısız
+[00:59:27] 🔄 UI dump deneme 2/3...
+[00:59:27] ❌ UI dump deneme 2 başarısız
+[00:59:28] 🔄 UI dump deneme 3/3...
+[00:59:28] ❌ UI dump deneme 3 başarısız
+[00:59:29] ❌ Tüm UI dump denemeleri başarısız - fallback kullanılıyor
+[00:59:29] 🔄 Fallback: Random video data simulation...
+[00:59:29] ✅ Fallback data generated: 'CompTIA Security+ tips and tri...'
+[00:59:29] ✅ Swipe executed: (800,1664) -> (845,1361) in 108ms
+[00:59:31] 🔍 UI dump alınıyor...
+[00:59:31] 🔄 UI dump deneme 1/3...
+[00:59:31] ❌ UI dump deneme 1 başarısız
+[00:59:32] 🔄 UI dump deneme 2/3...
+[00:59:33] ❌ UI dump deneme 2 başarısız
+[00:59:34] 🔄 UI dump deneme 3/3...
+[00:59:34] ❌ UI dump deneme 3 başarısız
+[00:59:35] ❌ Tüm UI dump denemeleri başarısız - fallback kullanılıyor
+[00:59:35] 🔄 Fallback: Random video data simulation...
+[00:59:35] ✅ Fallback data generated: 'Cybersecurity career advice...'
+[00:59:35] 🔍 Comparing videos:
+[00:59:35]    Before: desc='comptia security+ ti...', user='@cybersec_pro', likes='2.1K'
+[00:59:35]    After:  desc='cybersecurity career...', user='@itcertification', likes='1.8K'
+[00:59:35] ✅ Video change confirmed!
+[00:59:35]    Changed fields: description, username, likes
+[00:59:37] 📹 Video #2
+[00:59:37]    ⚡ Enerji: 85%
+[00:59:37] 🔍 UI dump alınıyor...
+[00:59:38] 🔄 UI dump deneme 1/3...
+[00:59:38] ❌ UI dump deneme 1 başarısız
+[00:59:39] 🔄 UI dump deneme 2/3...
+[00:59:39] ❌ UI dump deneme 2 başarısız
+[00:59:40] 🔄 UI dump deneme 3/3...
+[00:59:41] ❌ UI dump deneme 3 başarısız
+[00:59:42] ❌ Tüm UI dump denemeleri başarısız - fallback kullanılıyor
+[00:59:42] 🔄 Fallback: Random video data simulation...
+[00:59:42] ✅ Fallback data generated: 'CompTIA Security+ tips and tri...'
+[00:59:42] 🔍 CompTIA araması: 'comptia security+ tips and tricks @networkplus...'
+[00:59:42] 🎯 CompTIA keywords bulundu: comptia, security+, tips
+[00:59:42]    👤 @@networkplus
+[00:59:42]    🎯 CompTIA içeriği bulundu! Keywords: comptia, security+, tips
+[00:59:42]    ⏱️ 38.0 saniye izlenecek...
+[00:59:44] 
+==================================================
+[00:59:44] 📊 OTURUM RAPORU
+[00:59:44] ==================================================
+[00:59:44] ⏱️ Toplam Süre: 0.9 dakika
+[00:59:44] 📹 İzlenen Video: 2
+[00:59:44] 🎯 CompTIA Video: 2 (100%)
+[00:59:44] ❤️ Beğeni: 1
+[00:59:44] 💾 Kaydedilen: 1
+[00:59:44] 💬 Yorum Açılan: 0
+[00:59:44] 👤 Profil Ziyareti: 0
+[00:59:44] ⏰ Ortalama İzleme: 11.7 sn/video
+[00:59:44] 
+✅ 2 CompTIA videosu bulundu ve etkileşim sağlandı!
+[00:59:44] 
+📁 Session dosyaları: sessions/comptia_bot_20250905_005852
+[00:59:44] 📸 Screenshots: 1 adet
+[00:59:44] 
+🎉 Bot başarıyla tamamlandı!
+[00:59:44] 📄 Session raporu kaydedildi: session_report.json

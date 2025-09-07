@@ -1,0 +1,556 @@
+{
+  "session_info": {
+    "timestamp": "2025-09-05T00:59:44.480542",
+    "duration_minutes": 0.9,
+    "folder": "sessions/comptia_bot_20250905_005852"
+  },
+  "user_profile": {
+    "dominant_hand": "left",
+    "finger_size": 1.196813630488155,
+    "precision_level": 0.7396152831686278,
+    "swipe_style": "lazy",
+    "speed_preference": 0.8118396174939422
+  },
+  "interaction_patterns": {
+    "total_interactions": 4,
+    "touch_history_samples": [
+      [
+        709,
+        1253
+      ],
+      [
+        711,
+        1259
+      ],
+      [
+        992,
+        1544
+      ]
+    ],
+    "swipe_patterns_samples": [
+      {
+        "start_offset_x": 0,
+        "start_offset_y": -36,
+        "end_offset_x": -55,
+        "end_offset_y": 11,
+        "duration": 108,
+        "success": true,
+        "pattern_index": 1
+      }
+    ],
+    "final_energy_level": 0.85
+  },
+  "statistics": {
+    "videos_watched": 2,
+    "comptia_videos": 2,
+    "comptia_percentage": 100.0,
+    "likes_given": 1,
+    "videos_saved": 1,
+    "comments_opened": 0,
+    "profiles_visited": 0,
+    "total_watch_time": 23.4,
+    "average_watch_time": 11.7
+  },
+  "logs": [
+    {
+      "timestamp": "00:58:52",
+      "message": "🚀 Session started: 20250905_005852",
+      "full_timestamp": "2025-09-05T00:58:52.808887"
+    },
+    {
+      "timestamp": "00:58:52",
+      "message": "📁 Folder: sessions/comptia_bot_20250905_005852",
+      "full_timestamp": "2025-09-05T00:58:52.808999"
+    },
+    {
+      "timestamp": "00:58:52",
+      "message": "👤 User Profile:",
+      "full_timestamp": "2025-09-05T00:58:52.809041"
+    },
+    {
+      "timestamp": "00:58:52",
+      "message": "   • Dominant hand: left",
+      "full_timestamp": "2025-09-05T00:58:52.809080"
+    },
+    {
+      "timestamp": "00:58:52",
+      "message": "   • Finger size factor: 1.20",
+      "full_timestamp": "2025-09-05T00:58:52.809182"
+    },
+    {
+      "timestamp": "00:58:52",
+      "message": "   • Precision level: 0.74",
+      "full_timestamp": "2025-09-05T00:58:52.809224"
+    },
+    {
+      "timestamp": "00:58:52",
+      "message": "   • Swipe style: lazy",
+      "full_timestamp": "2025-09-05T00:58:52.809263"
+    },
+    {
+      "timestamp": "00:58:52",
+      "message": "   • Speed preference: 0.81",
+      "full_timestamp": "2025-09-05T00:58:52.809304"
+    },
+    {
+      "timestamp": "00:58:52",
+      "message": "🚀 CompTIA TikTok Bot Başlatılıyor",
+      "full_timestamp": "2025-09-05T00:58:52.809343"
+    },
+    {
+      "timestamp": "00:58:52",
+      "message": "==================================================",
+      "full_timestamp": "2025-09-05T00:58:52.809386"
+    },
+    {
+      "timestamp": "00:58:52",
+      "message": "⏰ Süre: 2 dakika",
+      "full_timestamp": "2025-09-05T00:58:52.809426"
+    },
+    {
+      "timestamp": "00:58:52",
+      "message": "🎯 Hedef: CompTIA içerikleri",
+      "full_timestamp": "2025-09-05T00:58:52.809463"
+    },
+    {
+      "timestamp": "00:58:52",
+      "message": "==================================================",
+      "full_timestamp": "2025-09-05T00:58:52.809500"
+    },
+    {
+      "timestamp": "00:58:52",
+      "message": "📱 TikTok açılıyor...",
+      "full_timestamp": "2025-09-05T00:58:52.809538"
+    },
+    {
+      "timestamp": "00:58:58",
+      "message": "📹 Video #1",
+      "full_timestamp": "2025-09-05T00:58:58.189288"
+    },
+    {
+      "timestamp": "00:58:58",
+      "message": "   ⚡ Enerji: 98%",
+      "full_timestamp": "2025-09-05T00:58:58.189406"
+    },
+    {
+      "timestamp": "00:58:58",
+      "message": "🔍 UI dump alınıyor...",
+      "full_timestamp": "2025-09-05T00:58:58.189447"
+    },
+    {
+      "timestamp": "00:58:58",
+      "message": "🔄 UI dump deneme 1/3...",
+      "full_timestamp": "2025-09-05T00:58:58.367534"
+    },
+    {
+      "timestamp": "00:58:58",
+      "message": "❌ UI dump deneme 1 başarısız",
+      "full_timestamp": "2025-09-05T00:58:58.680604"
+    },
+    {
+      "timestamp": "00:58:59",
+      "message": "🔄 UI dump deneme 2/3...",
+      "full_timestamp": "2025-09-05T00:58:59.682066"
+    },
+    {
+      "timestamp": "00:58:59",
+      "message": "❌ UI dump deneme 2 başarısız",
+      "full_timestamp": "2025-09-05T00:58:59.994677"
+    },
+    {
+      "timestamp": "00:59:00",
+      "message": "🔄 UI dump deneme 3/3...",
+      "full_timestamp": "2025-09-05T00:59:00.995834"
+    },
+    {
+      "timestamp": "00:59:01",
+      "message": "❌ UI dump deneme 3 başarısız",
+      "full_timestamp": "2025-09-05T00:59:01.241757"
+    },
+    {
+      "timestamp": "00:59:02",
+      "message": "❌ Tüm UI dump denemeleri başarısız - fallback kullanılıyor",
+      "full_timestamp": "2025-09-05T00:59:02.242214"
+    },
+    {
+      "timestamp": "00:59:02",
+      "message": "🔄 Fallback: Random video data simulation...",
+      "full_timestamp": "2025-09-05T00:59:02.242323"
+    },
+    {
+      "timestamp": "00:59:02",
+      "message": "✅ Fallback data generated: 'Tech tutorial for beginners...'",
+      "full_timestamp": "2025-09-05T00:59:02.242376"
+    },
+    {
+      "timestamp": "00:59:02",
+      "message": "🔍 CompTIA araması: 'tech tutorial for beginners @techguru...'",
+      "full_timestamp": "2025-09-05T00:59:02.242424"
+    },
+    {
+      "timestamp": "00:59:02",
+      "message": "🎯 CompTIA keywords bulundu: tutorial",
+      "full_timestamp": "2025-09-05T00:59:02.242474"
+    },
+    {
+      "timestamp": "00:59:02",
+      "message": "   👤 @@techguru",
+      "full_timestamp": "2025-09-05T00:59:02.242529"
+    },
+    {
+      "timestamp": "00:59:02",
+      "message": "   🎯 CompTIA içeriği bulundu! Keywords: tutorial",
+      "full_timestamp": "2025-09-05T00:59:02.242569"
+    },
+    {
+      "timestamp": "00:59:02",
+      "message": "   ⏱️ 23.4 saniye izlenecek...",
+      "full_timestamp": "2025-09-05T00:59:02.242624"
+    },
+    {
+      "timestamp": "00:59:10",
+      "message": "   ❤️ Çift tıklama beğeni",
+      "full_timestamp": "2025-09-05T00:59:10.244060"
+    },
+    {
+      "timestamp": "00:59:10",
+      "message": "📸 Screenshot alınıyor: liked_video_001_double_tap.png",
+      "full_timestamp": "2025-09-05T00:59:10.641340"
+    },
+    {
+      "timestamp": "00:59:10",
+      "message": "📱 ADB screencap komutu çalıştırılıyor...",
+      "full_timestamp": "2025-09-05T00:59:10.641535"
+    },
+    {
+      "timestamp": "00:59:11",
+      "message": "✅ ADB screencap başarılı",
+      "full_timestamp": "2025-09-05T00:59:11.869373"
+    },
+    {
+      "timestamp": "00:59:12",
+      "message": "💾 Dosya çekiliyor: /sdcard/temp_screenshot.png -> sessions/comptia_bot_20250905_005852/screenshots/liked_video_001_double_tap.png",
+      "full_timestamp": "2025-09-05T00:59:12.370083"
+    },
+    {
+      "timestamp": "00:59:12",
+      "message": "✅ ADB pull başarılı",
+      "full_timestamp": "2025-09-05T00:59:12.496085"
+    },
+    {
+      "timestamp": "00:59:12",
+      "message": "✅ Screenshot kaydedildi: liked_video_001_double_tap.png (2673404 bytes)",
+      "full_timestamp": "2025-09-05T00:59:12.496196"
+    },
+    {
+      "timestamp": "00:59:12",
+      "message": "📄 Video bilgileri kaydedildi: 1 total",
+      "full_timestamp": "2025-09-05T00:59:12.552563"
+    },
+    {
+      "timestamp": "00:59:18",
+      "message": "   💾 Video kaydediliyor",
+      "full_timestamp": "2025-09-05T00:59:18.056671"
+    },
+    {
+      "timestamp": "00:59:25",
+      "message": "   ⬆️ Sonraki video...",
+      "full_timestamp": "2025-09-05T00:59:25.599040"
+    },
+    {
+      "timestamp": "00:59:25",
+      "message": "🏃 Swipe distance: 306px, duration: 88ms",
+      "full_timestamp": "2025-09-05T00:59:25.599317"
+    },
+    {
+      "timestamp": "00:59:25",
+      "message": "🔍 UI dump alınıyor...",
+      "full_timestamp": "2025-09-05T00:59:25.599398"
+    },
+    {
+      "timestamp": "00:59:25",
+      "message": "🔄 UI dump deneme 1/3...",
+      "full_timestamp": "2025-09-05T00:59:25.779710"
+    },
+    {
+      "timestamp": "00:59:26",
+      "message": "❌ UI dump deneme 1 başarısız",
+      "full_timestamp": "2025-09-05T00:59:26.103557"
+    },
+    {
+      "timestamp": "00:59:27",
+      "message": "🔄 UI dump deneme 2/3...",
+      "full_timestamp": "2025-09-05T00:59:27.103861"
+    },
+    {
+      "timestamp": "00:59:27",
+      "message": "❌ UI dump deneme 2 başarısız",
+      "full_timestamp": "2025-09-05T00:59:27.411339"
+    },
+    {
+      "timestamp": "00:59:28",
+      "message": "🔄 UI dump deneme 3/3...",
+      "full_timestamp": "2025-09-05T00:59:28.411685"
+    },
+    {
+      "timestamp": "00:59:28",
+      "message": "❌ UI dump deneme 3 başarısız",
+      "full_timestamp": "2025-09-05T00:59:28.732065"
+    },
+    {
+      "timestamp": "00:59:29",
+      "message": "❌ Tüm UI dump denemeleri başarısız - fallback kullanılıyor",
+      "full_timestamp": "2025-09-05T00:59:29.732554"
+    },
+    {
+      "timestamp": "00:59:29",
+      "message": "🔄 Fallback: Random video data simulation...",
+      "full_timestamp": "2025-09-05T00:59:29.732677"
+    },
+    {
+      "timestamp": "00:59:29",
+      "message": "✅ Fallback data generated: 'CompTIA Security+ tips and tri...'",
+      "full_timestamp": "2025-09-05T00:59:29.732730"
+    },
+    {
+      "timestamp": "00:59:29",
+      "message": "✅ Swipe executed: (800,1664) -> (845,1361) in 108ms",
+      "full_timestamp": "2025-09-05T00:59:29.911625"
+    },
+    {
+      "timestamp": "00:59:31",
+      "message": "🔍 UI dump alınıyor...",
+      "full_timestamp": "2025-09-05T00:59:31.412772"
+    },
+    {
+      "timestamp": "00:59:31",
+      "message": "🔄 UI dump deneme 1/3...",
+      "full_timestamp": "2025-09-05T00:59:31.599011"
+    },
+    {
+      "timestamp": "00:59:31",
+      "message": "❌ UI dump deneme 1 başarısız",
+      "full_timestamp": "2025-09-05T00:59:31.934629"
+    },
+    {
+      "timestamp": "00:59:32",
+      "message": "🔄 UI dump deneme 2/3...",
+      "full_timestamp": "2025-09-05T00:59:32.935333"
+    },
+    {
+      "timestamp": "00:59:33",
+      "message": "❌ UI dump deneme 2 başarısız",
+      "full_timestamp": "2025-09-05T00:59:33.265999"
+    },
+    {
+      "timestamp": "00:59:34",
+      "message": "🔄 UI dump deneme 3/3...",
+      "full_timestamp": "2025-09-05T00:59:34.266692"
+    },
+    {
+      "timestamp": "00:59:34",
+      "message": "❌ UI dump deneme 3 başarısız",
+      "full_timestamp": "2025-09-05T00:59:34.592002"
+    },
+    {
+      "timestamp": "00:59:35",
+      "message": "❌ Tüm UI dump denemeleri başarısız - fallback kullanılıyor",
+      "full_timestamp": "2025-09-05T00:59:35.592800"
+    },
+    {
+      "timestamp": "00:59:35",
+      "message": "🔄 Fallback: Random video data simulation...",
+      "full_timestamp": "2025-09-05T00:59:35.592971"
+    },
+    {
+      "timestamp": "00:59:35",
+      "message": "✅ Fallback data generated: 'Cybersecurity career advice...'",
+      "full_timestamp": "2025-09-05T00:59:35.593036"
+    },
+    {
+      "timestamp": "00:59:35",
+      "message": "🔍 Comparing videos:",
+      "full_timestamp": "2025-09-05T00:59:35.593088"
+    },
+    {
+      "timestamp": "00:59:35",
+      "message": "   Before: desc='comptia security+ ti...', user='@cybersec_pro', likes='2.1K'",
+      "full_timestamp": "2025-09-05T00:59:35.593117"
+    },
+    {
+      "timestamp": "00:59:35",
+      "message": "   After:  desc='cybersecurity career...', user='@itcertification', likes='1.8K'",
+      "full_timestamp": "2025-09-05T00:59:35.593147"
+    },
+    {
+      "timestamp": "00:59:35",
+      "message": "✅ Video change confirmed!",
+      "full_timestamp": "2025-09-05T00:59:35.593181"
+    },
+    {
+      "timestamp": "00:59:35",
+      "message": "   Changed fields: description, username, likes",
+      "full_timestamp": "2025-09-05T00:59:35.593225"
+    },
+    {
+      "timestamp": "00:59:37",
+      "message": "📹 Video #2",
+      "full_timestamp": "2025-09-05T00:59:37.982069"
+    },
+    {
+      "timestamp": "00:59:37",
+      "message": "   ⚡ Enerji: 85%",
+      "full_timestamp": "2025-09-05T00:59:37.982183"
+    },
+    {
+      "timestamp": "00:59:37",
+      "message": "🔍 UI dump alınıyor...",
+      "full_timestamp": "2025-09-05T00:59:37.982252"
+    },
+    {
+      "timestamp": "00:59:38",
+      "message": "🔄 UI dump deneme 1/3...",
+      "full_timestamp": "2025-09-05T00:59:38.158692"
+    },
+    {
+      "timestamp": "00:59:38",
+      "message": "❌ UI dump deneme 1 başarısız",
+      "full_timestamp": "2025-09-05T00:59:38.484577"
+    },
+    {
+      "timestamp": "00:59:39",
+      "message": "🔄 UI dump deneme 2/3...",
+      "full_timestamp": "2025-09-05T00:59:39.485045"
+    },
+    {
+      "timestamp": "00:59:39",
+      "message": "❌ UI dump deneme 2 başarısız",
+      "full_timestamp": "2025-09-05T00:59:39.819078"
+    },
+    {
+      "timestamp": "00:59:40",
+      "message": "🔄 UI dump deneme 3/3...",
+      "full_timestamp": "2025-09-05T00:59:40.819548"
+    },
+    {
+      "timestamp": "00:59:41",
+      "message": "❌ UI dump deneme 3 başarısız",
+      "full_timestamp": "2025-09-05T00:59:41.092787"
+    },
+    {
+      "timestamp": "00:59:42",
+      "message": "❌ Tüm UI dump denemeleri başarısız - fallback kullanılıyor",
+      "full_timestamp": "2025-09-05T00:59:42.093077"
+    },
+    {
+      "timestamp": "00:59:42",
+      "message": "🔄 Fallback: Random video data simulation...",
+      "full_timestamp": "2025-09-05T00:59:42.093217"
+    },
+    {
+      "timestamp": "00:59:42",
+      "message": "✅ Fallback data generated: 'CompTIA Security+ tips and tri...'",
+      "full_timestamp": "2025-09-05T00:59:42.093286"
+    },
+    {
+      "timestamp": "00:59:42",
+      "message": "🔍 CompTIA araması: 'comptia security+ tips and tricks @networkplus...'",
+      "full_timestamp": "2025-09-05T00:59:42.093352"
+    },
+    {
+      "timestamp": "00:59:42",
+      "message": "🎯 CompTIA keywords bulundu: comptia, security+, tips",
+      "full_timestamp": "2025-09-05T00:59:42.093395"
+    },
+    {
+      "timestamp": "00:59:42",
+      "message": "   👤 @@networkplus",
+      "full_timestamp": "2025-09-05T00:59:42.093444"
+    },
+    {
+      "timestamp": "00:59:42",
+      "message": "   🎯 CompTIA içeriği bulundu! Keywords: comptia, security+, tips",
+      "full_timestamp": "2025-09-05T00:59:42.093489"
+    },
+    {
+      "timestamp": "00:59:42",
+      "message": "   ⏱️ 38.0 saniye izlenecek...",
+      "full_timestamp": "2025-09-05T00:59:42.093542"
+    },
+    {
+      "timestamp": "00:59:44",
+      "message": "\n==================================================",
+      "full_timestamp": "2025-09-05T00:59:44.479382"
+    },
+    {
+      "timestamp": "00:59:44",
+      "message": "📊 OTURUM RAPORU",
+      "full_timestamp": "2025-09-05T00:59:44.479537"
+    },
+    {
+      "timestamp": "00:59:44",
+      "message": "==================================================",
+      "full_timestamp": "2025-09-05T00:59:44.479603"
+    },
+    {
+      "timestamp": "00:59:44",
+      "message": "⏱️ Toplam Süre: 0.9 dakika",
+      "full_timestamp": "2025-09-05T00:59:44.479662"
+    },
+    {
+      "timestamp": "00:59:44",
+      "message": "📹 İzlenen Video: 2",
+      "full_timestamp": "2025-09-05T00:59:44.479693"
+    },
+    {
+      "timestamp": "00:59:44",
+      "message": "🎯 CompTIA Video: 2 (100%)",
+      "full_timestamp": "2025-09-05T00:59:44.479763"
+    },
+    {
+      "timestamp": "00:59:44",
+      "message": "❤️ Beğeni: 1",
+      "full_timestamp": "2025-09-05T00:59:44.479809"
+    },
+    {
+      "timestamp": "00:59:44",
+      "message": "💾 Kaydedilen: 1",
+      "full_timestamp": "2025-09-05T00:59:44.479847"
+    },
+    {
+      "timestamp": "00:59:44",
+      "message": "💬 Yorum Açılan: 0",
+      "full_timestamp": "2025-09-05T00:59:44.479939"
+    },
+    {
+      "timestamp": "00:59:44",
+      "message": "👤 Profil Ziyareti: 0",
+      "full_timestamp": "2025-09-05T00:59:44.480150"
+    },
+    {
+      "timestamp": "00:59:44",
+      "message": "⏰ Ortalama İzleme: 11.7 sn/video",
+      "full_timestamp": "2025-09-05T00:59:44.480365"
+    },
+    {
+      "timestamp": "00:59:44",
+      "message": "\n✅ 2 CompTIA videosu bulundu ve etkileşim sağlandı!",
+      "full_timestamp": "2025-09-05T00:59:44.480437"
+    },
+    {
+      "timestamp": "00:59:44",
+      "message": "\n📁 Session dosyaları: sessions/comptia_bot_20250905_005852",
+      "full_timestamp": "2025-09-05T00:59:44.480478"
+    },
+    {
+      "timestamp": "00:59:44",
+      "message": "📸 Screenshots: 1 adet",
+      "full_timestamp": "2025-09-05T00:59:44.480511"
+    },
+    {
+      "timestamp": "00:59:44",
+      "message": "\n🎉 Bot başarıyla tamamlandı!",
+      "full_timestamp": "2025-09-05T00:59:44.480528"
+    }
+  ]
+}

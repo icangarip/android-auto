@@ -1,0 +1,1168 @@
+{
+  "session_info": {
+    "timestamp": "2025-09-05T01:03:28.584508",
+    "duration_minutes": 0.9,
+    "folder": "sessions/comptia_bot_20250905_010233"
+  },
+  "user_profile": {
+    "dominant_hand": "right",
+    "finger_size": 0.8571612841024894,
+    "precision_level": 1.1834254662656756,
+    "swipe_style": "lazy",
+    "speed_preference": 0.7735508427984925
+  },
+  "interaction_patterns": {
+    "total_interactions": 2,
+    "touch_history_samples": [
+      [
+        968,
+        1276
+      ]
+    ],
+    "swipe_patterns_samples": [
+      {
+        "start_offset_x": -23,
+        "start_offset_y": -22,
+        "end_offset_x": -52,
+        "end_offset_y": -36,
+        "duration": 140,
+        "success": true,
+        "pattern_index": 1
+      }
+    ],
+    "final_energy_level": 0.83
+  },
+  "statistics": {
+    "videos_watched": 2,
+    "comptia_videos": 0,
+    "comptia_percentage": 0.0,
+    "likes_given": 1,
+    "videos_saved": 0,
+    "comments_opened": 0,
+    "profiles_visited": 0,
+    "total_watch_time": 18.0,
+    "average_watch_time": 9.0
+  },
+  "logs": [
+    {
+      "timestamp": "01:02:33",
+      "message": "🚀 Session started: 20250905_010233",
+      "full_timestamp": "2025-09-05T01:02:33.471950"
+    },
+    {
+      "timestamp": "01:02:33",
+      "message": "📁 Folder: sessions/comptia_bot_20250905_010233",
+      "full_timestamp": "2025-09-05T01:02:33.472105"
+    },
+    {
+      "timestamp": "01:02:33",
+      "message": "👤 User Profile:",
+      "full_timestamp": "2025-09-05T01:02:33.472149"
+    },
+    {
+      "timestamp": "01:02:33",
+      "message": "   • Dominant hand: right",
+      "full_timestamp": "2025-09-05T01:02:33.472185"
+    },
+    {
+      "timestamp": "01:02:33",
+      "message": "   • Finger size factor: 0.86",
+      "full_timestamp": "2025-09-05T01:02:33.472230"
+    },
+    {
+      "timestamp": "01:02:33",
+      "message": "   • Precision level: 1.18",
+      "full_timestamp": "2025-09-05T01:02:33.472293"
+    },
+    {
+      "timestamp": "01:02:33",
+      "message": "   • Swipe style: lazy",
+      "full_timestamp": "2025-09-05T01:02:33.472329"
+    },
+    {
+      "timestamp": "01:02:33",
+      "message": "   • Speed preference: 0.77",
+      "full_timestamp": "2025-09-05T01:02:33.472356"
+    },
+    {
+      "timestamp": "01:02:33",
+      "message": "🚀 CompTIA TikTok Bot Başlatılıyor",
+      "full_timestamp": "2025-09-05T01:02:33.472392"
+    },
+    {
+      "timestamp": "01:02:33",
+      "message": "==================================================",
+      "full_timestamp": "2025-09-05T01:02:33.472446"
+    },
+    {
+      "timestamp": "01:02:33",
+      "message": "⏰ Süre: 2 dakika",
+      "full_timestamp": "2025-09-05T01:02:33.472524"
+    },
+    {
+      "timestamp": "01:02:33",
+      "message": "🎯 Hedef: CompTIA içerikleri",
+      "full_timestamp": "2025-09-05T01:02:33.472560"
+    },
+    {
+      "timestamp": "01:02:33",
+      "message": "==================================================",
+      "full_timestamp": "2025-09-05T01:02:33.472603"
+    },
+    {
+      "timestamp": "01:02:33",
+      "message": "📱 TikTok açılıyor...",
+      "full_timestamp": "2025-09-05T01:02:33.472631"
+    },
+    {
+      "timestamp": "01:02:38",
+      "message": "📹 Video #1",
+      "full_timestamp": "2025-09-05T01:02:38.886403"
+    },
+    {
+      "timestamp": "01:02:38",
+      "message": "   ⚡ Enerji: 98%",
+      "full_timestamp": "2025-09-05T01:02:38.886558"
+    },
+    {
+      "timestamp": "01:02:38",
+      "message": "🔍 UI dump alınıyor...",
+      "full_timestamp": "2025-09-05T01:02:38.886603"
+    },
+    {
+      "timestamp": "01:02:39",
+      "message": "🔄 UI dump deneme 1/3...",
+      "full_timestamp": "2025-09-05T01:02:39.062327"
+    },
+    {
+      "timestamp": "01:02:39",
+      "message": "🔧 ADB command: shell uiautomator dump /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:02:39.062494"
+    },
+    {
+      "timestamp": "01:02:39",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:02:39.368034"
+    },
+    {
+      "timestamp": "01:02:39",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:02:39.368145"
+    },
+    {
+      "timestamp": "01:02:39",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:02:39.368189"
+    },
+    {
+      "timestamp": "01:02:39",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:02:39.368232"
+    },
+    {
+      "timestamp": "01:02:39",
+      "message": "❌ UI dump deneme 1 başarısız",
+      "full_timestamp": "2025-09-05T01:02:39.368276"
+    },
+    {
+      "timestamp": "01:02:41",
+      "message": "🔄 UI dump deneme 2/3...",
+      "full_timestamp": "2025-09-05T01:02:41.368669"
+    },
+    {
+      "timestamp": "01:02:41",
+      "message": "🔧 ADB command: shell uiautomator dump /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:02:41.368880"
+    },
+    {
+      "timestamp": "01:02:41",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:02:41.673440"
+    },
+    {
+      "timestamp": "01:02:41",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:02:41.673612"
+    },
+    {
+      "timestamp": "01:02:41",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:02:41.673685"
+    },
+    {
+      "timestamp": "01:02:41",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:02:41.673751"
+    },
+    {
+      "timestamp": "01:02:41",
+      "message": "❌ UI dump deneme 2 başarısız",
+      "full_timestamp": "2025-09-05T01:02:41.673803"
+    },
+    {
+      "timestamp": "01:02:43",
+      "message": "🔄 UI dump deneme 3/3...",
+      "full_timestamp": "2025-09-05T01:02:43.674080"
+    },
+    {
+      "timestamp": "01:02:43",
+      "message": "🔧 ADB command: shell uiautomator dump /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:02:43.674202"
+    },
+    {
+      "timestamp": "01:02:43",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:02:43.929564"
+    },
+    {
+      "timestamp": "01:02:43",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:02:43.929674"
+    },
+    {
+      "timestamp": "01:02:43",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:02:43.929721"
+    },
+    {
+      "timestamp": "01:02:43",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:02:43.929771"
+    },
+    {
+      "timestamp": "01:02:43",
+      "message": "❌ UI dump deneme 3 başarısız",
+      "full_timestamp": "2025-09-05T01:02:43.929816"
+    },
+    {
+      "timestamp": "01:02:43",
+      "message": "❌ Tüm UI dump denemeleri başarısız",
+      "full_timestamp": "2025-09-05T01:02:43.929859"
+    },
+    {
+      "timestamp": "01:02:43",
+      "message": "🔄 Alternatif yöntem deneniyor...",
+      "full_timestamp": "2025-09-05T01:02:43.929901"
+    },
+    {
+      "timestamp": "01:02:43",
+      "message": "🔄 Alternative: Trying different approaches...",
+      "full_timestamp": "2025-09-05T01:02:43.929947"
+    },
+    {
+      "timestamp": "01:02:43",
+      "message": "📱 Method 1: Trying uiautomator without path...",
+      "full_timestamp": "2025-09-05T01:02:43.930004"
+    },
+    {
+      "timestamp": "01:02:43",
+      "message": "🔧 ADB command: shell uiautomator dump",
+      "full_timestamp": "2025-09-05T01:02:43.930050"
+    },
+    {
+      "timestamp": "01:02:44",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:02:44.263189"
+    },
+    {
+      "timestamp": "01:02:44",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:02:44.263482"
+    },
+    {
+      "timestamp": "01:02:44",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:02:44.263599"
+    },
+    {
+      "timestamp": "01:02:44",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:02:44.263643"
+    },
+    {
+      "timestamp": "01:02:44",
+      "message": "📱 Method 2: Trying service call...",
+      "full_timestamp": "2025-09-05T01:02:44.263666"
+    },
+    {
+      "timestamp": "01:02:44",
+      "message": "🔧 ADB command: shell service call window 1",
+      "full_timestamp": "2025-09-05T01:02:44.263705"
+    },
+    {
+      "timestamp": "01:02:44",
+      "message": "📊 ADB result: return_code=0",
+      "full_timestamp": "2025-09-05T01:02:44.358732"
+    },
+    {
+      "timestamp": "01:02:44",
+      "message": "✅ STDOUT: Result: Parcel(00000000 00000000   '........')\n...",
+      "full_timestamp": "2025-09-05T01:02:44.358920"
+    },
+    {
+      "timestamp": "01:02:44",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:02:44.359058"
+    },
+    {
+      "timestamp": "01:02:44",
+      "message": "✅ Service call returned data",
+      "full_timestamp": "2025-09-05T01:02:44.359189"
+    },
+    {
+      "timestamp": "01:02:44",
+      "message": "📊 Extracted: user='', likes='00000000'",
+      "full_timestamp": "2025-09-05T01:02:44.359694"
+    },
+    {
+      "timestamp": "01:02:44",
+      "message": "🔍 CompTIA araması: 'extracted_from_text...'",
+      "full_timestamp": "2025-09-05T01:02:44.359853"
+    },
+    {
+      "timestamp": "01:02:44",
+      "message": "❌ CompTIA keyword bulunamadı",
+      "full_timestamp": "2025-09-05T01:02:44.360001"
+    },
+    {
+      "timestamp": "01:02:44",
+      "message": "   ⏱️ 18.0 saniye izlenecek...",
+      "full_timestamp": "2025-09-05T01:02:44.360162"
+    },
+    {
+      "timestamp": "01:02:54",
+      "message": "   ❤️ Buton beğeni",
+      "full_timestamp": "2025-09-05T01:02:54.362587"
+    },
+    {
+      "timestamp": "01:02:54",
+      "message": "📸 Screenshot alınıyor: liked_video_001_button.png",
+      "full_timestamp": "2025-09-05T01:02:54.454918"
+    },
+    {
+      "timestamp": "01:02:54",
+      "message": "📱 ADB screencap komutu çalıştırılıyor...",
+      "full_timestamp": "2025-09-05T01:02:54.455077"
+    },
+    {
+      "timestamp": "01:02:54",
+      "message": "✅ ADB screencap başarılı",
+      "full_timestamp": "2025-09-05T01:02:54.967838"
+    },
+    {
+      "timestamp": "01:02:55",
+      "message": "💾 Dosya çekiliyor: /sdcard/temp_screenshot.png -> sessions/comptia_bot_20250905_010233/screenshots/liked_video_001_button.png",
+      "full_timestamp": "2025-09-05T01:02:55.468240"
+    },
+    {
+      "timestamp": "01:02:55",
+      "message": "✅ ADB pull başarılı",
+      "full_timestamp": "2025-09-05T01:02:55.536703"
+    },
+    {
+      "timestamp": "01:02:55",
+      "message": "✅ Screenshot kaydedildi: liked_video_001_button.png (613618 bytes)",
+      "full_timestamp": "2025-09-05T01:02:55.536860"
+    },
+    {
+      "timestamp": "01:02:55",
+      "message": "📄 Video bilgileri kaydedildi: 1 total",
+      "full_timestamp": "2025-09-05T01:02:55.593546"
+    },
+    {
+      "timestamp": "01:03:02",
+      "message": "   ⬆️ Sonraki video...",
+      "full_timestamp": "2025-09-05T01:03:02.319215"
+    },
+    {
+      "timestamp": "01:03:02",
+      "message": "🏃 Swipe distance: 370px, duration: 109ms",
+      "full_timestamp": "2025-09-05T01:03:02.319528"
+    },
+    {
+      "timestamp": "01:03:02",
+      "message": "🔍 UI dump alınıyor...",
+      "full_timestamp": "2025-09-05T01:03:02.319600"
+    },
+    {
+      "timestamp": "01:03:02",
+      "message": "🔄 UI dump deneme 1/3...",
+      "full_timestamp": "2025-09-05T01:03:02.485728"
+    },
+    {
+      "timestamp": "01:03:02",
+      "message": "🔧 ADB command: shell uiautomator dump /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:03:02.485868"
+    },
+    {
+      "timestamp": "01:03:02",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:03:02.808721"
+    },
+    {
+      "timestamp": "01:03:02",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:03:02.809223"
+    },
+    {
+      "timestamp": "01:03:02",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:03:02.809374"
+    },
+    {
+      "timestamp": "01:03:02",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:03:02.809447"
+    },
+    {
+      "timestamp": "01:03:02",
+      "message": "❌ UI dump deneme 1 başarısız",
+      "full_timestamp": "2025-09-05T01:03:02.809482"
+    },
+    {
+      "timestamp": "01:03:04",
+      "message": "🔄 UI dump deneme 2/3...",
+      "full_timestamp": "2025-09-05T01:03:04.809768"
+    },
+    {
+      "timestamp": "01:03:04",
+      "message": "🔧 ADB command: shell uiautomator dump /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:03:04.809923"
+    },
+    {
+      "timestamp": "01:03:05",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:03:05.121117"
+    },
+    {
+      "timestamp": "01:03:05",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:03:05.121270"
+    },
+    {
+      "timestamp": "01:03:05",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:03:05.121314"
+    },
+    {
+      "timestamp": "01:03:05",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:03:05.121356"
+    },
+    {
+      "timestamp": "01:03:05",
+      "message": "❌ UI dump deneme 2 başarısız",
+      "full_timestamp": "2025-09-05T01:03:05.121400"
+    },
+    {
+      "timestamp": "01:03:07",
+      "message": "🔄 UI dump deneme 3/3...",
+      "full_timestamp": "2025-09-05T01:03:07.121649"
+    },
+    {
+      "timestamp": "01:03:07",
+      "message": "🔧 ADB command: shell uiautomator dump /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:03:07.121861"
+    },
+    {
+      "timestamp": "01:03:07",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:03:07.353499"
+    },
+    {
+      "timestamp": "01:03:07",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:03:07.353671"
+    },
+    {
+      "timestamp": "01:03:07",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:03:07.353722"
+    },
+    {
+      "timestamp": "01:03:07",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:03:07.353771"
+    },
+    {
+      "timestamp": "01:03:07",
+      "message": "❌ UI dump deneme 3 başarısız",
+      "full_timestamp": "2025-09-05T01:03:07.353819"
+    },
+    {
+      "timestamp": "01:03:07",
+      "message": "❌ Tüm UI dump denemeleri başarısız",
+      "full_timestamp": "2025-09-05T01:03:07.353885"
+    },
+    {
+      "timestamp": "01:03:07",
+      "message": "🔄 Alternatif yöntem deneniyor...",
+      "full_timestamp": "2025-09-05T01:03:07.353981"
+    },
+    {
+      "timestamp": "01:03:07",
+      "message": "🔄 Alternative: Trying different approaches...",
+      "full_timestamp": "2025-09-05T01:03:07.354048"
+    },
+    {
+      "timestamp": "01:03:07",
+      "message": "📱 Method 1: Trying uiautomator without path...",
+      "full_timestamp": "2025-09-05T01:03:07.354096"
+    },
+    {
+      "timestamp": "01:03:07",
+      "message": "🔧 ADB command: shell uiautomator dump",
+      "full_timestamp": "2025-09-05T01:03:07.354139"
+    },
+    {
+      "timestamp": "01:03:07",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:03:07.616839"
+    },
+    {
+      "timestamp": "01:03:07",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:03:07.617023"
+    },
+    {
+      "timestamp": "01:03:07",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:03:07.617066"
+    },
+    {
+      "timestamp": "01:03:07",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:03:07.617109"
+    },
+    {
+      "timestamp": "01:03:07",
+      "message": "📱 Method 2: Trying service call...",
+      "full_timestamp": "2025-09-05T01:03:07.617154"
+    },
+    {
+      "timestamp": "01:03:07",
+      "message": "🔧 ADB command: shell service call window 1",
+      "full_timestamp": "2025-09-05T01:03:07.617202"
+    },
+    {
+      "timestamp": "01:03:07",
+      "message": "📊 ADB result: return_code=0",
+      "full_timestamp": "2025-09-05T01:03:07.693649"
+    },
+    {
+      "timestamp": "01:03:07",
+      "message": "✅ STDOUT: Result: Parcel(00000000 00000000   '........')\n...",
+      "full_timestamp": "2025-09-05T01:03:07.693764"
+    },
+    {
+      "timestamp": "01:03:07",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:03:07.693822"
+    },
+    {
+      "timestamp": "01:03:07",
+      "message": "✅ Service call returned data",
+      "full_timestamp": "2025-09-05T01:03:07.693915"
+    },
+    {
+      "timestamp": "01:03:07",
+      "message": "📊 Extracted: user='', likes='00000000'",
+      "full_timestamp": "2025-09-05T01:03:07.694043"
+    },
+    {
+      "timestamp": "01:03:07",
+      "message": "✅ Swipe executed: (777,1678) -> (848,1314) in 140ms",
+      "full_timestamp": "2025-09-05T01:03:07.964882"
+    },
+    {
+      "timestamp": "01:03:09",
+      "message": "🔍 UI dump alınıyor...",
+      "full_timestamp": "2025-09-05T01:03:09.465307"
+    },
+    {
+      "timestamp": "01:03:09",
+      "message": "🔄 UI dump deneme 1/3...",
+      "full_timestamp": "2025-09-05T01:03:09.649088"
+    },
+    {
+      "timestamp": "01:03:09",
+      "message": "🔧 ADB command: shell uiautomator dump /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:03:09.649256"
+    },
+    {
+      "timestamp": "01:03:09",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:03:09.981611"
+    },
+    {
+      "timestamp": "01:03:09",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:03:09.981772"
+    },
+    {
+      "timestamp": "01:03:09",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:03:09.981801"
+    },
+    {
+      "timestamp": "01:03:09",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:03:09.981838"
+    },
+    {
+      "timestamp": "01:03:09",
+      "message": "❌ UI dump deneme 1 başarısız",
+      "full_timestamp": "2025-09-05T01:03:09.981861"
+    },
+    {
+      "timestamp": "01:03:11",
+      "message": "🔄 UI dump deneme 2/3...",
+      "full_timestamp": "2025-09-05T01:03:11.982149"
+    },
+    {
+      "timestamp": "01:03:11",
+      "message": "🔧 ADB command: shell uiautomator dump /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:03:11.982298"
+    },
+    {
+      "timestamp": "01:03:12",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:03:12.212106"
+    },
+    {
+      "timestamp": "01:03:12",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:03:12.212392"
+    },
+    {
+      "timestamp": "01:03:12",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:03:12.212516"
+    },
+    {
+      "timestamp": "01:03:12",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:03:12.212566"
+    },
+    {
+      "timestamp": "01:03:12",
+      "message": "❌ UI dump deneme 2 başarısız",
+      "full_timestamp": "2025-09-05T01:03:12.212603"
+    },
+    {
+      "timestamp": "01:03:14",
+      "message": "🔄 UI dump deneme 3/3...",
+      "full_timestamp": "2025-09-05T01:03:14.212950"
+    },
+    {
+      "timestamp": "01:03:14",
+      "message": "🔧 ADB command: shell uiautomator dump /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:03:14.213110"
+    },
+    {
+      "timestamp": "01:03:14",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:03:14.530599"
+    },
+    {
+      "timestamp": "01:03:14",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:03:14.530809"
+    },
+    {
+      "timestamp": "01:03:14",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:03:14.530897"
+    },
+    {
+      "timestamp": "01:03:14",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:03:14.530971"
+    },
+    {
+      "timestamp": "01:03:14",
+      "message": "❌ UI dump deneme 3 başarısız",
+      "full_timestamp": "2025-09-05T01:03:14.531017"
+    },
+    {
+      "timestamp": "01:03:14",
+      "message": "❌ Tüm UI dump denemeleri başarısız",
+      "full_timestamp": "2025-09-05T01:03:14.531087"
+    },
+    {
+      "timestamp": "01:03:14",
+      "message": "🔄 Alternatif yöntem deneniyor...",
+      "full_timestamp": "2025-09-05T01:03:14.531137"
+    },
+    {
+      "timestamp": "01:03:14",
+      "message": "🔄 Alternative: Trying different approaches...",
+      "full_timestamp": "2025-09-05T01:03:14.531195"
+    },
+    {
+      "timestamp": "01:03:14",
+      "message": "📱 Method 1: Trying uiautomator without path...",
+      "full_timestamp": "2025-09-05T01:03:14.531226"
+    },
+    {
+      "timestamp": "01:03:14",
+      "message": "🔧 ADB command: shell uiautomator dump",
+      "full_timestamp": "2025-09-05T01:03:14.531272"
+    },
+    {
+      "timestamp": "01:03:14",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:03:14.847551"
+    },
+    {
+      "timestamp": "01:03:14",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:03:14.847688"
+    },
+    {
+      "timestamp": "01:03:14",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:03:14.847755"
+    },
+    {
+      "timestamp": "01:03:14",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:03:14.847800"
+    },
+    {
+      "timestamp": "01:03:14",
+      "message": "📱 Method 2: Trying service call...",
+      "full_timestamp": "2025-09-05T01:03:14.847852"
+    },
+    {
+      "timestamp": "01:03:14",
+      "message": "🔧 ADB command: shell service call window 1",
+      "full_timestamp": "2025-09-05T01:03:14.847921"
+    },
+    {
+      "timestamp": "01:03:14",
+      "message": "📊 ADB result: return_code=0",
+      "full_timestamp": "2025-09-05T01:03:14.918503"
+    },
+    {
+      "timestamp": "01:03:14",
+      "message": "✅ STDOUT: Result: Parcel(00000000 00000000   '........')\n...",
+      "full_timestamp": "2025-09-05T01:03:14.918633"
+    },
+    {
+      "timestamp": "01:03:14",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:03:14.918701"
+    },
+    {
+      "timestamp": "01:03:14",
+      "message": "✅ Service call returned data",
+      "full_timestamp": "2025-09-05T01:03:14.918761"
+    },
+    {
+      "timestamp": "01:03:14",
+      "message": "📊 Extracted: user='', likes='00000000'",
+      "full_timestamp": "2025-09-05T01:03:14.918845"
+    },
+    {
+      "timestamp": "01:03:14",
+      "message": "🔍 Comparing videos:",
+      "full_timestamp": "2025-09-05T01:03:14.918935"
+    },
+    {
+      "timestamp": "01:03:14",
+      "message": "   Before: desc='extracted_from_text...', user='', likes='00000000'",
+      "full_timestamp": "2025-09-05T01:03:14.918997"
+    },
+    {
+      "timestamp": "01:03:14",
+      "message": "   After:  desc='extracted_from_text...', user='', likes='00000000'",
+      "full_timestamp": "2025-09-05T01:03:14.919039"
+    },
+    {
+      "timestamp": "01:03:14",
+      "message": "⚠️ No video change detected - same content",
+      "full_timestamp": "2025-09-05T01:03:14.919085"
+    },
+    {
+      "timestamp": "01:03:14",
+      "message": "⚠️ Video didn't change - trying ONE more faster swipe",
+      "full_timestamp": "2025-09-05T01:03:14.919141"
+    },
+    {
+      "timestamp": "01:03:15",
+      "message": "🚀 Fast retry swipe: (496,1736) -> (511,750) in 109ms",
+      "full_timestamp": "2025-09-05T01:03:15.169404"
+    },
+    {
+      "timestamp": "01:03:16",
+      "message": "🔍 UI dump alınıyor...",
+      "full_timestamp": "2025-09-05T01:03:16.969707"
+    },
+    {
+      "timestamp": "01:03:17",
+      "message": "🔄 UI dump deneme 1/3...",
+      "full_timestamp": "2025-09-05T01:03:17.137285"
+    },
+    {
+      "timestamp": "01:03:17",
+      "message": "🔧 ADB command: shell uiautomator dump /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:03:17.137439"
+    },
+    {
+      "timestamp": "01:03:17",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:03:17.438791"
+    },
+    {
+      "timestamp": "01:03:17",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:03:17.438933"
+    },
+    {
+      "timestamp": "01:03:17",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:03:17.438988"
+    },
+    {
+      "timestamp": "01:03:17",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:03:17.439033"
+    },
+    {
+      "timestamp": "01:03:17",
+      "message": "❌ UI dump deneme 1 başarısız",
+      "full_timestamp": "2025-09-05T01:03:17.439079"
+    },
+    {
+      "timestamp": "01:03:19",
+      "message": "🔄 UI dump deneme 2/3...",
+      "full_timestamp": "2025-09-05T01:03:19.443200"
+    },
+    {
+      "timestamp": "01:03:19",
+      "message": "🔧 ADB command: shell uiautomator dump /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:03:19.443359"
+    },
+    {
+      "timestamp": "01:03:19",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:03:19.781149"
+    },
+    {
+      "timestamp": "01:03:19",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:03:19.781392"
+    },
+    {
+      "timestamp": "01:03:19",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:03:19.781479"
+    },
+    {
+      "timestamp": "01:03:19",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:03:19.781552"
+    },
+    {
+      "timestamp": "01:03:19",
+      "message": "❌ UI dump deneme 2 başarısız",
+      "full_timestamp": "2025-09-05T01:03:19.781656"
+    },
+    {
+      "timestamp": "01:03:21",
+      "message": "🔄 UI dump deneme 3/3...",
+      "full_timestamp": "2025-09-05T01:03:21.782219"
+    },
+    {
+      "timestamp": "01:03:21",
+      "message": "🔧 ADB command: shell uiautomator dump /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:03:21.782348"
+    },
+    {
+      "timestamp": "01:03:22",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:03:22.101302"
+    },
+    {
+      "timestamp": "01:03:22",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:03:22.101456"
+    },
+    {
+      "timestamp": "01:03:22",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:03:22.101498"
+    },
+    {
+      "timestamp": "01:03:22",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:03:22.101526"
+    },
+    {
+      "timestamp": "01:03:22",
+      "message": "❌ UI dump deneme 3 başarısız",
+      "full_timestamp": "2025-09-05T01:03:22.101555"
+    },
+    {
+      "timestamp": "01:03:22",
+      "message": "❌ Tüm UI dump denemeleri başarısız",
+      "full_timestamp": "2025-09-05T01:03:22.101581"
+    },
+    {
+      "timestamp": "01:03:22",
+      "message": "🔄 Alternatif yöntem deneniyor...",
+      "full_timestamp": "2025-09-05T01:03:22.101611"
+    },
+    {
+      "timestamp": "01:03:22",
+      "message": "🔄 Alternative: Trying different approaches...",
+      "full_timestamp": "2025-09-05T01:03:22.101651"
+    },
+    {
+      "timestamp": "01:03:22",
+      "message": "📱 Method 1: Trying uiautomator without path...",
+      "full_timestamp": "2025-09-05T01:03:22.101744"
+    },
+    {
+      "timestamp": "01:03:22",
+      "message": "🔧 ADB command: shell uiautomator dump",
+      "full_timestamp": "2025-09-05T01:03:22.101844"
+    },
+    {
+      "timestamp": "01:03:22",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:03:22.419727"
+    },
+    {
+      "timestamp": "01:03:22",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:03:22.419844"
+    },
+    {
+      "timestamp": "01:03:22",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:03:22.419903"
+    },
+    {
+      "timestamp": "01:03:22",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:03:22.419956"
+    },
+    {
+      "timestamp": "01:03:22",
+      "message": "📱 Method 2: Trying service call...",
+      "full_timestamp": "2025-09-05T01:03:22.419997"
+    },
+    {
+      "timestamp": "01:03:22",
+      "message": "🔧 ADB command: shell service call window 1",
+      "full_timestamp": "2025-09-05T01:03:22.420044"
+    },
+    {
+      "timestamp": "01:03:22",
+      "message": "📊 ADB result: return_code=0",
+      "full_timestamp": "2025-09-05T01:03:22.489217"
+    },
+    {
+      "timestamp": "01:03:22",
+      "message": "✅ STDOUT: Result: Parcel(00000000 00000000   '........')\n...",
+      "full_timestamp": "2025-09-05T01:03:22.489348"
+    },
+    {
+      "timestamp": "01:03:22",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:03:22.489406"
+    },
+    {
+      "timestamp": "01:03:22",
+      "message": "✅ Service call returned data",
+      "full_timestamp": "2025-09-05T01:03:22.489452"
+    },
+    {
+      "timestamp": "01:03:22",
+      "message": "📊 Extracted: user='', likes='00000000'",
+      "full_timestamp": "2025-09-05T01:03:22.489514"
+    },
+    {
+      "timestamp": "01:03:22",
+      "message": "🔍 Comparing videos:",
+      "full_timestamp": "2025-09-05T01:03:22.489590"
+    },
+    {
+      "timestamp": "01:03:22",
+      "message": "   Before: desc='extracted_from_text...', user='', likes='00000000'",
+      "full_timestamp": "2025-09-05T01:03:22.489634"
+    },
+    {
+      "timestamp": "01:03:22",
+      "message": "   After:  desc='extracted_from_text...', user='', likes='00000000'",
+      "full_timestamp": "2025-09-05T01:03:22.489676"
+    },
+    {
+      "timestamp": "01:03:22",
+      "message": "⚠️ No video change detected - same content",
+      "full_timestamp": "2025-09-05T01:03:22.489722"
+    },
+    {
+      "timestamp": "01:03:22",
+      "message": "⏭️ Proceeding anyway - may be UI parsing issue",
+      "full_timestamp": "2025-09-05T01:03:22.489765"
+    },
+    {
+      "timestamp": "01:03:24",
+      "message": "📹 Video #2",
+      "full_timestamp": "2025-09-05T01:03:24.117663"
+    },
+    {
+      "timestamp": "01:03:24",
+      "message": "   ⚡ Enerji: 83%",
+      "full_timestamp": "2025-09-05T01:03:24.117796"
+    },
+    {
+      "timestamp": "01:03:24",
+      "message": "🔍 UI dump alınıyor...",
+      "full_timestamp": "2025-09-05T01:03:24.117830"
+    },
+    {
+      "timestamp": "01:03:24",
+      "message": "🔄 UI dump deneme 1/3...",
+      "full_timestamp": "2025-09-05T01:03:24.272989"
+    },
+    {
+      "timestamp": "01:03:24",
+      "message": "🔧 ADB command: shell uiautomator dump /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:03:24.273140"
+    },
+    {
+      "timestamp": "01:03:24",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:03:24.509371"
+    },
+    {
+      "timestamp": "01:03:24",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:03:24.509509"
+    },
+    {
+      "timestamp": "01:03:24",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:03:24.509572"
+    },
+    {
+      "timestamp": "01:03:24",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:03:24.509618"
+    },
+    {
+      "timestamp": "01:03:24",
+      "message": "❌ UI dump deneme 1 başarısız",
+      "full_timestamp": "2025-09-05T01:03:24.509687"
+    },
+    {
+      "timestamp": "01:03:26",
+      "message": "🔄 UI dump deneme 2/3...",
+      "full_timestamp": "2025-09-05T01:03:26.510172"
+    },
+    {
+      "timestamp": "01:03:26",
+      "message": "🔧 ADB command: shell uiautomator dump /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-05T01:03:26.510306"
+    },
+    {
+      "timestamp": "01:03:26",
+      "message": "📊 ADB result: return_code=137",
+      "full_timestamp": "2025-09-05T01:03:26.826418"
+    },
+    {
+      "timestamp": "01:03:26",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-05T01:03:26.826548"
+    },
+    {
+      "timestamp": "01:03:26",
+      "message": "ℹ️ STDERR: empty",
+      "full_timestamp": "2025-09-05T01:03:26.826642"
+    },
+    {
+      "timestamp": "01:03:26",
+      "message": "❌ Command failed with code 137",
+      "full_timestamp": "2025-09-05T01:03:26.826714"
+    },
+    {
+      "timestamp": "01:03:26",
+      "message": "❌ UI dump deneme 2 başarısız",
+      "full_timestamp": "2025-09-05T01:03:26.826773"
+    },
+    {
+      "timestamp": "01:03:28",
+      "message": "\n==================================================",
+      "full_timestamp": "2025-09-05T01:03:28.583622"
+    },
+    {
+      "timestamp": "01:03:28",
+      "message": "📊 OTURUM RAPORU",
+      "full_timestamp": "2025-09-05T01:03:28.583742"
+    },
+    {
+      "timestamp": "01:03:28",
+      "message": "==================================================",
+      "full_timestamp": "2025-09-05T01:03:28.583785"
+    },
+    {
+      "timestamp": "01:03:28",
+      "message": "⏱️ Toplam Süre: 0.9 dakika",
+      "full_timestamp": "2025-09-05T01:03:28.583847"
+    },
+    {
+      "timestamp": "01:03:28",
+      "message": "📹 İzlenen Video: 2",
+      "full_timestamp": "2025-09-05T01:03:28.583898"
+    },
+    {
+      "timestamp": "01:03:28",
+      "message": "🎯 CompTIA Video: 0 (0%)",
+      "full_timestamp": "2025-09-05T01:03:28.583942"
+    },
+    {
+      "timestamp": "01:03:28",
+      "message": "❤️ Beğeni: 1",
+      "full_timestamp": "2025-09-05T01:03:28.584004"
+    },
+    {
+      "timestamp": "01:03:28",
+      "message": "💾 Kaydedilen: 0",
+      "full_timestamp": "2025-09-05T01:03:28.584064"
+    },
+    {
+      "timestamp": "01:03:28",
+      "message": "💬 Yorum Açılan: 0",
+      "full_timestamp": "2025-09-05T01:03:28.584119"
+    },
+    {
+      "timestamp": "01:03:28",
+      "message": "👤 Profil Ziyareti: 0",
+      "full_timestamp": "2025-09-05T01:03:28.584224"
+    },
+    {
+      "timestamp": "01:03:28",
+      "message": "⏰ Ortalama İzleme: 9.0 sn/video",
+      "full_timestamp": "2025-09-05T01:03:28.584313"
+    },
+    {
+      "timestamp": "01:03:28",
+      "message": "\n📁 Session dosyaları: sessions/comptia_bot_20250905_010233",
+      "full_timestamp": "2025-09-05T01:03:28.584377"
+    },
+    {
+      "timestamp": "01:03:28",
+      "message": "📸 Screenshots: 1 adet",
+      "full_timestamp": "2025-09-05T01:03:28.584424"
+    },
+    {
+      "timestamp": "01:03:28",
+      "message": "\n🎉 Bot başarıyla tamamlandı!",
+      "full_timestamp": "2025-09-05T01:03:28.584486"
+    }
+  ]
+}

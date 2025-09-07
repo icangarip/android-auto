@@ -1,0 +1,115 @@
+Session started 20250906_101034
+Session folder: sessions/locator_20250906_101034
+📁 Session klasörü hazır
+
+📹 Video #1
+📝 Description: Humpday - am I right? #fyp @McDonald’s
+🏷️ Title: j a y s o n
+🎯 Decision: skip
+
+📹 Video #2
+📝 Description: ⚡ Level up your IT career! Daily A+ practice at your fingertips 💻…more
+🏷️ Title: CompTIA A+
+🎯 Decision: LIKE (reason: keywords: a+, comptia)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_101034/screenshots/liked_video_002.png
+
+📹 Video #3
+📝 Description: @john shallbetter
+🏷️ Title: josie
+🎯 Decision: skip
+
+📹 Video #4
+📝 No description found
+🎯 Decision: skip
+
+📹 Video #5
+📝 Description: #fyp#foryou #foryoupage #tikt…more
+🏷️ Title: Beautiful Girls/Ladies
+🎯 Decision: LIKE (reason: random 30%)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_101034/screenshots/liked_video_005.png
+
+📹 Video #6
+📝 Description: The YouTube star and his super model wife were married weeks earlier …more
+🏷️ Title: News.com.au
+🎯 Decision: LIKE (reason: random 30%)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_101034/screenshots/liked_video_006.png
+
+📹 Video #7
+📝 Description: A hero Alaskan man prevented a Labor Day tragedy when he wrestled a l…more
+🏷️ Title: Daily Mail
+🎯 Decision: skip
+
+📹 Video #8
+📝 Description: President Trump addressed the August jobs report, saying high Federal R…more
+🏷️ Title: cbsnews
+🎯 Decision: LIKE (reason: random 30%)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_101034/screenshots/liked_video_008.png
+
+📹 Video #9
+📝 Description: One of our favorite we’ve done in our home state! 🤠🥾…more
+🏷️ Title: Courtney & Matt | Texas Travel
+🎯 Decision: LIKE (reason: random 30%)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_101034/screenshots/liked_video_009.png
+
+📹 Video #10
+📝 Description: ☀️ 🌟 Sunday reset! Plan your study week ahead with our app & stay …more
+🏷️ Title: CertAI: Comptia Network+
+🎯 Decision: LIKE (reason: keywords: comptia, network+)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_101034/screenshots/liked_video_010.png
+
+📹 Video #11
+📝 Description: The road to fairy meadows! One of the most beautiful places in the worl…more
+🏷️ Title: Abdullah
+🎯 Decision: LIKE (reason: random 30%)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_101034/screenshots/liked_video_011.png
+
+📹 Video #12
+📝 Description: Seafood boil party! …more
+🏷️ Title: Black Pearl Seafood Bar
+🎯 Decision: LIKE (reason: random 30%)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_101034/screenshots/liked_video_012.png
+
+📹 Video #13
+📝 Description: This is the most loneliest city in the world—Perth.#geography #histo…more
+🏷️ Title: Curiosity Compass
+🎯 Decision: skip
+
+📹 Video #14
+📝 Description: Cologne Cathedral …more
+🏷️ Title: ☆ChrizRockstar☆
+🎯 Decision: skip
+
+📹 Video #15
+📝 Description: Today's Special is our Brisket Enchiladas!!!…more
+🏷️ Title: Damons Real Texas BBQ
+🎯 Decision: skip
+
+📹 Video #16
+📝 Description: We get it, you went to burning man
+🏷️ Title: greyson
+🎯 Decision: skip
+
+📹 Video #17
+📝 Description: dc what anyone says, it’s the best bbq ever: great quality, best staff, co…more
+🏷️ Title: Z
+🎯 Decision: skip
+
+✅ Automation finished!
+📊 Duration: ~5 min | Videos: 17 | Likes: 8
+💾 Rapor kaydedildi: session_report.json

@@ -1,0 +1,51 @@
+Session started 20250906_215656
+Session folder: sessions/locator_20250906_215656
+📁 Session klasörü hazır
+
+📹 Video #1
+📝 Description: That's a strange request…more
+🏷️ Title: Chris from I.T.
+🎯 Decision: skip
+
+📹 Video #2
+📝 Description: my happy place 🤍🏔️✨ #grandt…more
+🏷️ Title: Jada Raene🌻
+🎯 Decision: skip
+
+📹 Video #3
+📝 Description: A good tool is always the right gi…more
+🏷️ Title: HotpickHaven
+🎯 Decision: LIKE (reason: random 30%)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_215656/screenshots/liked_video_003.png
+
+📹 Video #4
+📝 Description: Most people fail this Network+ question…📲 All questions + ans…more
+🏷️ Title: CertAI: Comptia Network+
+🎯 Decision: LIKE (reason: keywords: network+, comptia)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_215656/screenshots/liked_video_004.png
+
+📹 Video #5
+📝 Description: #IT #workfromhome #troublesh…more
+🏷️ Title: Ariole Dieujuste
+🎯 Decision: skip
+
+📹 Video #6
+📝 Description: God got me 😂 #fyp #military #…more
+🏷️ Title: jayvenchy_
+🎯 Decision: skip
+
+📹 Video #7
+📝 Description: Subnetting doesn’t have to be scary. This quick cheat sheet will save you HOURS ...
+🏷️ Title: Easytechtips
+🎯 Decision: LIKE (reason: keywords: subnet, subnetting)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_215656/screenshots/liked_video_007.png
+
+✅ Automation finished!
+📊 Duration: ~2 min | Videos: 7 | Likes: 3
+💾 Rapor kaydedildi: session_report.json

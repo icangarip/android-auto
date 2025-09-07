@@ -1,0 +1,37 @@
+Session started 20250906_013713
+Session folder: sessions/locator_20250906_013713
+📁 Session klasörü hazır
+
+📹 Video #1
+📝 Açıklama: 📱 🚀 New week, new opportunities! 💡 Get one step closer to passing y…more
+🎯 Karar: geç
+
+📹 Video #2
+📝 Açıklama: The $3,500,000 Lamborghini Fenomeno. Only 29 in the world. Sold Out.
+🎯 Karar: geç
+
+📹 Video #3
+📝 Açıklama: 🧠 “Think first, answer later!” 🔍 Correct answers in the comme…more
+🎯 Karar: geç
+
+📹 Video #4
+📝 Açıklama: #peacock #fyp #arcadiacalifornia
+🎯 Karar: BEĞEN
+❤️  Like butonu aranıyor (locator ile)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_013713/screenshots/liked_video_004.png
+
+📹 Video #5
+📝 Açıklama: The most beautiful yet most dangerous place in Hawaii_ #maps #map #v…more
+🎯 Karar: BEĞEN
+❤️  Like butonu aranıyor (locator ile)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_013713/screenshots/liked_video_005.png
+
+📹 Video #6
+📝 Açıklama bulunamadı
+🎯 Karar: geç
+
+✅ Otomasyon tamamlandı!
+📊 Süre: ~2 dk | Videolar: 6 | Beğeniler: 2
+💾 Rapor kaydedildi: session_report.json

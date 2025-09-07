@@ -1,0 +1,293 @@
+{
+  "session_info": {
+    "timestamp": "2025-09-06T00:10:22.461847",
+    "duration_minutes": 0.8,
+    "folder": "sessions/comptia_bot_20250906_000935"
+  },
+  "user_profile": {
+    "dominant_hand": "left",
+    "finger_size": 0.8038161667242527,
+    "precision_level": 0.7828970248768468,
+    "swipe_style": "curved",
+    "speed_preference": 1.1590526306603466
+  },
+  "interaction_patterns": {
+    "total_interactions": 0,
+    "touch_history_samples": [],
+    "swipe_patterns_samples": [],
+    "final_energy_level": 0.98
+  },
+  "statistics": {
+    "videos_watched": 1,
+    "comptia_videos": 0,
+    "comptia_percentage": 0.0,
+    "likes_given": 0,
+    "videos_saved": 0,
+    "comments_opened": 0,
+    "profiles_visited": 0,
+    "total_watch_time": 0,
+    "average_watch_time": 0.0
+  },
+  "logs": [
+    {
+      "timestamp": "00:09:35",
+      "message": "🚀 Session started: 20250906_000935",
+      "full_timestamp": "2025-09-06T00:09:35.509035"
+    },
+    {
+      "timestamp": "00:09:35",
+      "message": "📁 Folder: sessions/comptia_bot_20250906_000935",
+      "full_timestamp": "2025-09-06T00:09:35.509132"
+    },
+    {
+      "timestamp": "00:09:35",
+      "message": "👤 User Profile:",
+      "full_timestamp": "2025-09-06T00:09:35.509154"
+    },
+    {
+      "timestamp": "00:09:35",
+      "message": "   • Dominant hand: left",
+      "full_timestamp": "2025-09-06T00:09:35.509198"
+    },
+    {
+      "timestamp": "00:09:35",
+      "message": "   • Finger size factor: 0.80",
+      "full_timestamp": "2025-09-06T00:09:35.509277"
+    },
+    {
+      "timestamp": "00:09:35",
+      "message": "   • Precision level: 0.78",
+      "full_timestamp": "2025-09-06T00:09:35.509313"
+    },
+    {
+      "timestamp": "00:09:35",
+      "message": "   • Swipe style: curved",
+      "full_timestamp": "2025-09-06T00:09:35.509346"
+    },
+    {
+      "timestamp": "00:09:35",
+      "message": "   • Speed preference: 1.16",
+      "full_timestamp": "2025-09-06T00:09:35.509394"
+    },
+    {
+      "timestamp": "00:09:35",
+      "message": "🚀 CompTIA TikTok Bot Başlatılıyor",
+      "full_timestamp": "2025-09-06T00:09:35.509440"
+    },
+    {
+      "timestamp": "00:09:35",
+      "message": "==================================================",
+      "full_timestamp": "2025-09-06T00:09:35.509483"
+    },
+    {
+      "timestamp": "00:09:35",
+      "message": "⏰ Süre: 2 dakika",
+      "full_timestamp": "2025-09-06T00:09:35.509503"
+    },
+    {
+      "timestamp": "00:09:35",
+      "message": "🎯 Hedef: CompTIA içerikleri",
+      "full_timestamp": "2025-09-06T00:09:35.509532"
+    },
+    {
+      "timestamp": "00:09:35",
+      "message": "==================================================",
+      "full_timestamp": "2025-09-06T00:09:35.509558"
+    },
+    {
+      "timestamp": "00:09:35",
+      "message": "📱 TikTok açılıyor...",
+      "full_timestamp": "2025-09-06T00:09:35.509593"
+    },
+    {
+      "timestamp": "00:09:40",
+      "message": "📹 Video #1",
+      "full_timestamp": "2025-09-06T00:09:40.863170"
+    },
+    {
+      "timestamp": "00:09:40",
+      "message": "   ⚡ Enerji: 98%",
+      "full_timestamp": "2025-09-06T00:09:40.863297"
+    },
+    {
+      "timestamp": "00:09:40",
+      "message": "🔍 UI dump alınıyor...",
+      "full_timestamp": "2025-09-06T00:09:40.863329"
+    },
+    {
+      "timestamp": "00:09:40",
+      "message": "🧰 Preflight: ekran açık + animasyonlar kapalı",
+      "full_timestamp": "2025-09-06T00:09:40.863348"
+    },
+    {
+      "timestamp": "00:09:42",
+      "message": "🔄 UI dump deneme 1/3 (compressed -> file)...",
+      "full_timestamp": "2025-09-06T00:09:42.794349"
+    },
+    {
+      "timestamp": "00:09:42",
+      "message": "🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-06T00:09:42.794470"
+    },
+    {
+      "timestamp": "00:09:54",
+      "message": "📊 ADB result: return_code=0",
+      "full_timestamp": "2025-09-06T00:09:54.286558"
+    },
+    {
+      "timestamp": "00:09:54",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-06T00:09:54.286738"
+    },
+    {
+      "timestamp": "00:09:54",
+      "message": "❌ STDERR: ERROR: could not get idle state.\n...",
+      "full_timestamp": "2025-09-06T00:09:54.286788"
+    },
+    {
+      "timestamp": "00:09:54",
+      "message": "❌ Dump başarılı görünüyor ama dosya bulunamadı",
+      "full_timestamp": "2025-09-06T00:09:54.349155"
+    },
+    {
+      "timestamp": "00:09:55",
+      "message": "🔄 UI dump deneme 2/3 (compressed -> file)...",
+      "full_timestamp": "2025-09-06T00:09:55.549675"
+    },
+    {
+      "timestamp": "00:09:55",
+      "message": "🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-06T00:09:55.549815"
+    },
+    {
+      "timestamp": "00:10:06",
+      "message": "📊 ADB result: return_code=0",
+      "full_timestamp": "2025-09-06T00:10:06.829470"
+    },
+    {
+      "timestamp": "00:10:06",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-06T00:10:06.829663"
+    },
+    {
+      "timestamp": "00:10:06",
+      "message": "❌ STDERR: ERROR: could not get idle state.\n...",
+      "full_timestamp": "2025-09-06T00:10:06.829726"
+    },
+    {
+      "timestamp": "00:10:06",
+      "message": "❌ Dump başarılı görünüyor ama dosya bulunamadı",
+      "full_timestamp": "2025-09-06T00:10:06.891257"
+    },
+    {
+      "timestamp": "00:10:08",
+      "message": "🔄 UI dump deneme 3/3 (compressed -> file)...",
+      "full_timestamp": "2025-09-06T00:10:08.091597"
+    },
+    {
+      "timestamp": "00:10:08",
+      "message": "🔧 ADB command: shell uiautomator dump --compressed /sdcard/ui_dump.xml",
+      "full_timestamp": "2025-09-06T00:10:08.091719"
+    },
+    {
+      "timestamp": "00:10:19",
+      "message": "📊 ADB result: return_code=0",
+      "full_timestamp": "2025-09-06T00:10:19.511473"
+    },
+    {
+      "timestamp": "00:10:19",
+      "message": "⚠️ STDOUT: empty",
+      "full_timestamp": "2025-09-06T00:10:19.511642"
+    },
+    {
+      "timestamp": "00:10:19",
+      "message": "❌ STDERR: ERROR: could not get idle state.\n...",
+      "full_timestamp": "2025-09-06T00:10:19.511697"
+    },
+    {
+      "timestamp": "00:10:19",
+      "message": "❌ Dump başarılı görünüyor ama dosya bulunamadı",
+      "full_timestamp": "2025-09-06T00:10:19.570985"
+    },
+    {
+      "timestamp": "00:10:19",
+      "message": "📱 Fallback: uiautomator dump --compressed (default path)",
+      "full_timestamp": "2025-09-06T00:10:19.571168"
+    },
+    {
+      "timestamp": "00:10:19",
+      "message": "🔧 ADB command: shell uiautomator dump --compressed",
+      "full_timestamp": "2025-09-06T00:10:19.571234"
+    },
+    {
+      "timestamp": "00:10:22",
+      "message": "\n==================================================",
+      "full_timestamp": "2025-09-06T00:10:22.460922"
+    },
+    {
+      "timestamp": "00:10:22",
+      "message": "📊 OTURUM RAPORU",
+      "full_timestamp": "2025-09-06T00:10:22.461052"
+    },
+    {
+      "timestamp": "00:10:22",
+      "message": "==================================================",
+      "full_timestamp": "2025-09-06T00:10:22.461101"
+    },
+    {
+      "timestamp": "00:10:22",
+      "message": "⏱️ Toplam Süre: 0.8 dakika",
+      "full_timestamp": "2025-09-06T00:10:22.461133"
+    },
+    {
+      "timestamp": "00:10:22",
+      "message": "📹 İzlenen Video: 1",
+      "full_timestamp": "2025-09-06T00:10:22.461174"
+    },
+    {
+      "timestamp": "00:10:22",
+      "message": "🎯 CompTIA Video: 0 (0%)",
+      "full_timestamp": "2025-09-06T00:10:22.461228"
+    },
+    {
+      "timestamp": "00:10:22",
+      "message": "❤️ Beğeni: 0",
+      "full_timestamp": "2025-09-06T00:10:22.461295"
+    },
+    {
+      "timestamp": "00:10:22",
+      "message": "💾 Kaydedilen: 0",
+      "full_timestamp": "2025-09-06T00:10:22.461385"
+    },
+    {
+      "timestamp": "00:10:22",
+      "message": "💬 Yorum Açılan: 0",
+      "full_timestamp": "2025-09-06T00:10:22.461442"
+    },
+    {
+      "timestamp": "00:10:22",
+      "message": "👤 Profil Ziyareti: 0",
+      "full_timestamp": "2025-09-06T00:10:22.461539"
+    },
+    {
+      "timestamp": "00:10:22",
+      "message": "⏰ Ortalama İzleme: 0.0 sn/video",
+      "full_timestamp": "2025-09-06T00:10:22.461622"
+    },
+    {
+      "timestamp": "00:10:22",
+      "message": "\n📁 Session dosyaları: sessions/comptia_bot_20250906_000935",
+      "full_timestamp": "2025-09-06T00:10:22.461717"
+    },
+    {
+      "timestamp": "00:10:22",
+      "message": "📸 Screenshots: 0 adet",
+      "full_timestamp": "2025-09-06T00:10:22.461776"
+    },
+    {
+      "timestamp": "00:10:22",
+      "message": "\n🎉 Bot başarıyla tamamlandı!",
+      "full_timestamp": "2025-09-06T00:10:22.461821"
+    }
+  ]
+}

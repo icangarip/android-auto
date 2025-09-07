@@ -1,0 +1,54 @@
+Session started 20250906_195602
+Session folder: sessions/locator_20250906_195602
+📁 Session klasörü hazır
+👤 Switching account to: certmaster8
+⏳ Waiting for account switch (15s)...
+✅ Account switched to: certmaster8
+📸 Screenshot kaydedildi: sessions/locator_20250906_195602/screenshots/after_switch_certmaster8.png
+🏠 Returned to Home tab
+
+📹 Video #1
+📝 Description: 🧠 Weekend challenge! Stay sharp with Network+ questions. #NetworkPl…more
+🏷️ Title: CertAI: Comptia Network+
+🎯 Decision: LIKE (reason: keywords: network+, comptia)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_195602/screenshots/liked_video_001.png
+
+📹 Video #2
+📝 No description found
+🎯 Decision: skip
+
+📹 Video #3
+📝 Description: #falla #electricidad #peligro #ar…more
+🏷️ Title: Child.Wild13
+🎯 Decision: skip
+
+📹 Video #4
+📝 Description: The winner of last year’s $1.3 billion Powerball jackpot in Oregon was …more
+🏷️ Title: cbsnews
+🎯 Decision: skip
+
+📹 Video #5
+📝 Description: #onthisday
+🏷️ Title: Nas Babar,  NB Network Lesson
+🎯 Decision: skip
+
+📹 Video #6
+📝 Description: Happy Friday Coders! …more
+🏷️ Title: Jenn | CPC | CCMA
+🎯 Decision: skip
+
+📹 Video #7
+📝 Description: Good luck 😎…more
+🏷️ Title: NextLevelSDDC.com
+🎯 Decision: skip
+
+📹 Video #8
+📝 Description: Is the 5 in 1 retractable charger real? YES and I love it 🤭…more
+🏷️ Title: shoplikedes
+🎯 Decision: skip
+
+✅ Automation finished!
+📊 Duration: ~2 min | Videos: 8 | Likes: 1
+💾 Rapor kaydedildi: session_report.json

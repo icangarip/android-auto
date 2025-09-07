@@ -1,0 +1,105 @@
+Session started 20250906_094526
+Session folder: sessions/locator_20250906_094526
+📁 Session klasörü hazır
+
+📹 Video #1
+📝 Description: Wealth isn’t in my bank account, it’s in my camera roll 🐻✨…more
+🏷️ Title: Matador | Travel + Adventure
+🎯 Decision: skip
+
+📹 Video #2
+📝 Description: ⚡ Security+ Challenge Time!   Only the sharpest minds get this …more
+🏷️ Title: Comptia Security+ 2025
+🎯 Decision: LIKE (reason: keywords: security+, comptia)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_094526/screenshots/liked_video_002.png
+
+📹 Video #3
+📝 Description: 📘 Struggling with Network+ prep? Don’t worry – our app makes it si…more
+🏷️ Title: CertAI: Comptia Network+
+🎯 Decision: LIKE (reason: keywords: network+, comptia)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_094526/screenshots/liked_video_003.png
+
+📹 Video #4
+📝 Description: Alaskan Brown bear brings her cubs over to us after being chased by a big…more
+🏷️ Title: Casey Cooper
+🎯 Decision: skip
+
+📹 Video #5
+📝 Description: The promos are being made. I know the words “strong” and “Trump supp…more
+🏷️ Title: huntsvilleboxingclubtx
+🎯 Decision: skip
+
+📹 Video #6
+📝 Description: Grandpa Sees His Motorcycle Again After 60 Years - Part 2 #fyp #vir…more
+🏷️ Title: Tomary lul
+🎯 Decision: skip
+
+📹 Video #7
+📝 Description: Is this on your bucket list? If not it should be! #usnationalparks #gl…more
+🏷️ Title: parttimeadventuring
+🎯 Decision: skip
+
+📹 Video #8
+📝 Description: When my client decides to pay off all her collections and did not ask for a …mor...
+🏷️ Title: MartinCreditExpert
+🎯 Decision: skip
+
+📹 Video #9
+📝 Description: 📱 Try our AI-powered app for CompTIA Network+!…more
+🏷️ Title: CertAI: Comptia Network+
+🎯 Decision: LIKE (reason: keywords: comptia, network+)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_094526/screenshots/liked_video_009.png
+
+📹 Video #10
+📝 Description: I got licked by some deer on my run the other day. #deer #fawn #mistak…more
+🏷️ Title: Kerrie and Remi
+🎯 Decision: skip
+
+📹 Video #11
+📝 Description: twitch: willaox #fyp #twitch #twi…more
+🏷️ Title: willaox
+🎯 Decision: skip
+
+📹 Video #12
+📝 Description: #estoyloco #fyp #riverside
+🏷️ Title: TG Montoya
+🎯 Decision: skip
+
+📹 Video #13
+📝 Description: A young boy from Firth, Idaho, broke down in tears after discovering th…more
+🏷️ Title: Daily Mail
+🎯 Decision: skip
+
+📹 Video #14
+📝 Description: Gen X and technology 🙄#pizza …more
+🏷️ Title: Lugo's New York Pizza
+🎯 Decision: LIKE (reason: random 30%)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_094526/screenshots/liked_video_014.png
+
+📹 Video #15
+📝 Description: The canonization of the first Catholic saint of the millennial generation,…more
+🏷️ Title: GMA News
+🎯 Decision: LIKE (reason: random 30%)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_094526/screenshots/liked_video_015.png
+
+📹 Video #16
+📝 Description: Did you know that for just $24 you can take a 10 hour train ride from Dall…more
+🏷️ Title: Travel to Everywhere
+🎯 Decision: LIKE (reason: random 30%)
+❤️  Searching for Like button (locators)...
+✅ Bulundu: descriptionContains('like')
+📸 Screenshot kaydedildi: sessions/locator_20250906_094526/screenshots/liked_video_016.png
+
+✅ Automation finished!
+📊 Duration: ~5 min | Videos: 16 | Likes: 6
+💾 Rapor kaydedildi: session_report.json
